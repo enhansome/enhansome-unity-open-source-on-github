@@ -953,7 +953,7 @@
                 "last_commit": "2026-06-18T06:36:17Z",
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3876
+                "stars": 3879
               }
             },
             {
@@ -2120,7 +2120,7 @@
                 "last_commit": "2021-02-07T10:31:35Z",
                 "owner": "smkplus",
                 "repo": "ShaderMan",
-                "stars": 1501
+                "stars": 1502
               }
             },
             {
@@ -4278,7 +4278,7 @@
                 "archived": false,
                 "id": 74695208,
                 "language": "C#",
-                "last_commit": "2026-04-04T16:51:28Z",
+                "last_commit": "2026-08-23T12:59:53Z",
                 "owner": "redbluegames",
                 "repo": "unity-mulligan-renamer",
                 "stars": 590
@@ -4958,7 +4958,7 @@
                 "last_commit": "2026-04-19T18:34:16Z",
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4550
+                "stars": 4551
               }
             },
             {
@@ -5003,7 +5003,7 @@
                 "last_commit": "2025-10-15T00:16:11Z",
                 "owner": "mob-sakai",
                 "repo": "UpmGitExtension",
-                "stars": 813
+                "stars": 814
               }
             },
             {
@@ -5780,7 +5780,7 @@
                 "last_commit": "2026-07-04T06:00:57Z",
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 5957
+                "stars": 5959
               }
             },
             {
@@ -6214,7 +6214,7 @@
                 "last_commit": "2026-04-04T18:14:23Z",
                 "owner": "yasirkula",
                 "repo": "UnityRuntimeInspector",
-                "stars": 2154
+                "stars": 2155
               }
             },
             {
@@ -7211,7 +7211,7 @@
                 "last_commit": "2024-10-04T15:34:00Z",
                 "owner": "keenanwoodall",
                 "repo": "Deform",
-                "stars": 3675
+                "stars": 3676
               }
             },
             {
@@ -7226,7 +7226,7 @@
                 "last_commit": "2023-08-10T07:30:07Z",
                 "owner": "DavidArayan",
                 "repo": "ezy-slice",
-                "stars": 2264
+                "stars": 2265
               }
             },
             {
@@ -8054,7 +8054,7 @@
                 "last_commit": "2022-06-15T02:08:33Z",
                 "owner": "HiddenMonk",
                 "repo": "Unity3DRuntimeTransformGizmo",
-                "stars": 772
+                "stars": 771
               }
             },
             {
@@ -8091,7 +8091,7 @@
                 "last_commit": "2021-02-26T03:37:17Z",
                 "owner": "Dandarawy",
                 "repo": "UnityBookPageCurl",
-                "stars": 1100
+                "stars": 1101
               }
             },
             {
@@ -8195,7 +8195,7 @@
                 "last_commit": "2026-07-08T03:24:36Z",
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11141
+                "stars": 11143
               }
             },
             {
@@ -8522,7 +8522,7 @@
                 "last_commit": "2024-04-29T17:00:00Z",
                 "owner": "gkngkc",
                 "repo": "UnityStandaloneFileBrowser",
-                "stars": 2458
+                "stars": 2459
               }
             },
             {
@@ -8537,7 +8537,7 @@
                 "last_commit": "2024-05-20T02:59:02Z",
                 "owner": "sturdyspoon",
                 "repo": "unity-movement-ai",
-                "stars": 2139
+                "stars": 2138
               }
             },
             {
@@ -8552,7 +8552,7 @@
                 "last_commit": "2021-09-28T10:43:20Z",
                 "owner": "thefuntastic",
                 "repo": "Unity3d-Finite-State-Machine",
-                "stars": 1691
+                "stars": 1690
               }
             },
             {
@@ -10189,7 +10189,7 @@
                 "last_commit": "2018-10-03T06:15:04Z",
                 "owner": "mjholtzem",
                 "repo": "Unity-2D-Destruction",
-                "stars": 667
+                "stars": 668
               }
             },
             {
@@ -11910,7 +11910,7 @@
                 "last_commit": "2022-12-08T15:37:37Z",
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15606
+                "stars": 15603
               }
             },
             {
@@ -11925,7 +11925,7 @@
                 "last_commit": "2024-08-18T17:01:30Z",
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9324
+                "stars": 9326
               }
             },
             {
@@ -12044,7 +12044,7 @@
                 "last_commit": "2025-11-21T07:14:15Z",
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10169
+                "stars": 10170
               }
             },
             {
@@ -12207,7 +12207,7 @@
                 "last_commit": "2023-06-25T21:58:57Z",
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19849
+                "stars": 19852
               }
             },
             {
@@ -12222,7 +12222,7 @@
                 "last_commit": "2020-02-06T05:00:57Z",
                 "owner": "QianMo",
                 "repo": "Unity-Design-Pattern",
-                "stars": 4678
+                "stars": 4680
               }
             },
             {
@@ -12237,7 +12237,7 @@
                 "last_commit": "2024-04-04T23:31:28Z",
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
-                "stars": 2899
+                "stars": 2898
               }
             },
             {
@@ -12252,7 +12252,7 @@
                 "last_commit": "2026-01-23T07:21:00Z",
                 "owner": "PokemonUnity",
                 "repo": "PokemonUnity",
-                "stars": 2019
+                "stars": 2018
               }
             },
             {
@@ -12670,7 +12670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:48:58.731Z",
+    "last_updated": "2026-08-24T04:57:39.145Z",
     "original_repository": "baba-s/awesome-unity-open-source-on-github",
     "original_repository_id": 225324670,
     "original_repository_sha": "740c0f023c88e9b409708e82ab0dc17b11491b59",
