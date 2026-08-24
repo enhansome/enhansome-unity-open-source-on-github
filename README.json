@@ -953,7 +953,7 @@
                 "last_commit": "2026-06-18T06:36:17Z",
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3879
+                "stars": 3881
               }
             },
             {
@@ -1341,7 +1341,7 @@
                 "last_commit": "2020-06-03T09:53:03Z",
                 "owner": "UnityTechnologies",
                 "repo": "ShaderGraph_ExampleLibrary",
-                "stars": 1927
+                "stars": 1928
               }
             },
             {
@@ -3563,7 +3563,7 @@
                 "last_commit": "2026-06-29T17:47:03Z",
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
-                "stars": 5200
+                "stars": 5199
               }
             },
             {
@@ -4874,6 +4874,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "UnityExtensions.EditorCoroutine",
+              "description": "Easy to run coroutines from editor code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132171175,
+                "language": "C#",
+                "last_commit": "2018-05-04T17:56:54Z",
+                "owner": "garettbass",
+                "repo": "UnityExtensions.EditorCoroutine",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Coroutine"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SuperTiled2Unity",
               "description": "Imports Tiled files to Unity",
               "children": [],
@@ -4943,6 +4965,28 @@
           "description": null,
           "node_type": "group",
           "title": "3D Model"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "unity-colourlovers-importer",
+              "description": "Load colours and palettes directly from COLOURlovers.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121182034,
+                "language": "C#",
+                "last_commit": "2020-03-15T08:40:48Z",
+                "owner": "shelleylowe",
+                "repo": "unity-colourlovers-importer",
+                "stars": 102
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Color"
         },
         {
           "children": [
@@ -5451,7 +5495,7 @@
                 "last_commit": "2026-08-17T08:45:20Z",
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7594
+                "stars": 7595
               }
             },
             {
@@ -5780,7 +5824,7 @@
                 "last_commit": "2026-07-04T06:00:57Z",
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 5959
+                "stars": 5961
               }
             },
             {
@@ -5795,7 +5839,7 @@
                 "last_commit": "2026-07-17T14:39:20Z",
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
-                "stars": 3785
+                "stars": 3786
               }
             },
             {
@@ -5825,7 +5869,7 @@
                 "last_commit": "2026-05-10T21:50:20Z",
                 "owner": "yasirkula",
                 "repo": "UnitySimpleFileBrowser",
-                "stars": 994
+                "stars": 995
               }
             },
             {
@@ -6363,7 +6407,7 @@
                 "last_commit": "2026-06-07T20:48:36Z",
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2767
+                "stars": 2768
               }
             },
             {
@@ -6460,7 +6504,7 @@
                 "last_commit": "2026-08-07T11:49:34Z",
                 "owner": "mob-sakai",
                 "repo": "SoftMaskForUGUI",
-                "stars": 2807
+                "stars": 2809
               }
             },
             {
@@ -6921,6 +6965,50 @@
           "description": null,
           "node_type": "group",
           "title": "UI Editor Extensions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AtlasImage",
+              "description": "AtlasImage is a graphic component use SpriteAtlas for uGUI",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 131609948,
+                "language": "C#",
+                "last_commit": "2020-12-28T15:06:31Z",
+                "owner": "mob-sakai",
+                "repo": "AtlasImage",
+                "stars": 142
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Atlas"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ButtonEx",
+              "description": "Extended button",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 110503915,
+                "language": "C#",
+                "last_commit": "2018-08-15T02:33:07Z",
+                "owner": "mob-sakai",
+                "repo": "ButtonEx",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Button"
         },
         {
           "children": [
@@ -7853,7 +7941,7 @@
                 "last_commit": "2024-06-18T01:24:15Z",
                 "owner": "xasset",
                 "repo": "xasset",
-                "stars": 2701
+                "stars": 2700
               }
             },
             {
@@ -8195,7 +8283,7 @@
                 "last_commit": "2026-07-08T03:24:36Z",
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11143
+                "stars": 11144
               }
             },
             {
@@ -8492,6 +8580,28 @@
           "description": null,
           "node_type": "group",
           "title": "Object Pooling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WebGLInput",
+              "description": "IME for Unity WebGL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159118953,
+                "language": "C#",
+                "last_commit": "2026-06-23T11:26:14Z",
+                "owner": "kou-yeung",
+                "repo": "WebGLInput",
+                "stars": 959
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebGL"
         },
         {
           "children": [
@@ -9240,7 +9350,7 @@
                 "last_commit": "2026-08-20T13:25:14Z",
                 "owner": "gree",
                 "repo": "unity-webview",
-                "stars": 2656
+                "stars": 2657
               }
             },
             {
@@ -11925,7 +12035,7 @@
                 "last_commit": "2024-08-18T17:01:30Z",
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9326
+                "stars": 9329
               }
             },
             {
@@ -11955,7 +12065,7 @@
                 "last_commit": "2022-01-14T21:53:29Z",
                 "owner": "mafaca",
                 "repo": "UtinyRipper",
-                "stars": 3093
+                "stars": 3092
               }
             }
           ],
@@ -12044,7 +12154,7 @@
                 "last_commit": "2025-11-21T07:14:15Z",
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10170
+                "stars": 10171
               }
             },
             {
@@ -12160,6 +12270,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "unity-git-hooks",
+              "description": "Git hooks for Unity project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18204096,
+                "language": "Python",
+                "last_commit": "2026-01-20T16:49:08Z",
+                "owner": "doitian",
+                "repo": "unity-git-hooks",
+                "stars": 352
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Git"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gamium",
+              "description": "Game test automation library, scripting the behavior of game users",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638960204,
+                "language": "C++",
+                "last_commit": "2024-09-26T04:39:33Z",
+                "owner": "dogu-team",
+                "repo": "gamium",
+                "stars": 105
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Test"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "PhoenixSharp",
               "description": "C# Phoenix Channels client for real-time communication with Elixir/Phoenix servers",
               "children": [],
@@ -12197,6 +12351,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "DotRecast",
+              "description": "A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613697580,
+                "language": "C#",
+                "last_commit": "2026-08-23T16:18:50Z",
+                "owner": "ikpil",
+                "repo": "DotRecast",
+                "stars": 934
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "3d-game-shaders-for-beginners",
               "description": "how to implement SSAO, depth of field, lighting, normal mapping, and more",
               "children": [],
@@ -12207,7 +12383,7 @@
                 "last_commit": "2023-06-25T21:58:57Z",
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19852
+                "stars": 19853
               }
             },
             {
@@ -12670,7 +12846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:57:39.145Z",
+    "last_updated": "2026-08-24T13:54:37.793Z",
     "original_repository": "baba-s/awesome-unity-open-source-on-github",
     "original_repository_id": 225324670,
     "original_repository_sha": "740c0f023c88e9b409708e82ab0dc17b11491b59",
