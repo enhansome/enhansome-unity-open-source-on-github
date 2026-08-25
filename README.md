@@ -552,7 +552,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## Design
 
-* [unity-themes](https://github.com/zios/unity-themes) ⭐ 524 | 🐛 19 | 🌐 C# | 📅 2022-01-02 ![GitHub last commit](https://img.shields.io/github/last-commit/zios/unity-themes?logoSize=auto) - Provides the Unity Editor with adjustable, hot-swappable GUI themes across all elements
+* [unity-themes](https://github.com/zios/unity-themes) ⭐ 525 | 🐛 19 | 🌐 C# | 📅 2022-01-02 ![GitHub last commit](https://img.shields.io/github/last-commit/zios/unity-themes?logoSize=auto) - Provides the Unity Editor with adjustable, hot-swappable GUI themes across all elements
 * [UnityDarkSkin](https://github.com/Gluschenko/UnityDarkSkin) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/Gluschenko/UnityDarkSkin) - Switching layout theme in Unity Editor (light -> dark)
 * [UnityEditorHelper](https://github.com/JefferiesTube/UnityEditorHelper) ⭐ 134 | 🐛 1 | 🌐 C# | 📅 2018-03-01 ![GitHub last commit](https://img.shields.io/github/last-commit/JefferiesTube/UnityEditorHelper?logoSize=auto) - An organized bunch of scripts to make editor scripting in Unity easier
 * [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) ⭐ 65 | 🐛 0 | 🌐 C# | 📅 2023-01-14 ![GitHub last commit](https://img.shields.io/github/last-commit/KonH/StableDiffusionUnityTools?logoSize=auto) - Editor assets generation via Stable Diffusion
