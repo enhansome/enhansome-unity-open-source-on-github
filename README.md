@@ -232,7 +232,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## ShaderGraph
 
 * [ShaderGraph\_ExampleLibrary](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary) ⭐ 1,928 | 🐛 7 | 🌐 ShaderLab | 📅 2020-06-03 ![GitHub last commit](https://img.shields.io/github/last-commit/UnityTechnologies/ShaderGraph_ExampleLibrary?logoSize=auto) - A library of Shaders created using Unity's Shader Graph
-* [ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples) ⭐ 1,269 | 🐛 3 | 🌐 C# | 📅 2018-11-16 ![GitHub last commit](https://img.shields.io/github/last-commit/keijiro/ShaderGraphExamples?logoSize=auto) - Simple examples of Unity shader graphs
+* [ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples) ⭐ 1,268 | 🐛 3 | 🌐 C# | 📅 2018-11-16 ![GitHub last commit](https://img.shields.io/github/last-commit/keijiro/ShaderGraphExamples?logoSize=auto) - Simple examples of Unity shader graphs
 * [unity-shadergraph-sandbox](https://github.com/andydbc/unity-shadergraph-sandbox) ⭐ 708 | 🐛 1 | 🌐 C# | 📅 2019-04-21 ![GitHub last commit](https://img.shields.io/github/last-commit/andydbc/unity-shadergraph-sandbox?logoSize=auto) - Collection of ShaderGraph examples
 
 ## Wireframe
@@ -669,7 +669,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## UI Utility
 
-* [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) ⭐ 5,968 | 🐛 42 | 🌐 C# | 📅 2026-08-27 ![GitHub last commit](https://img.shields.io/github/last-commit/mob-sakai/ParticleEffectForUGUI?logoSize=auto) - Provide a component to render particle effect for uGUI
+* [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) ⭐ 5,970 | 🐛 42 | 🌐 C# | 📅 2026-08-27 ![GitHub last commit](https://img.shields.io/github/last-commit/mob-sakai/ParticleEffectForUGUI?logoSize=auto) - Provide a component to render particle effect for uGUI
 * [unity-ugui-XCharts](https://github.com/monitor1394/unity-ugui-XCharts) ⭐ 3,785 | 🐛 8 | 🌐 C# | 📅 2026-07-17 ![GitHub last commit](https://img.shields.io/github/last-commit/monitor1394/unity-ugui-XCharts?logoSize=auto) - A charting and data visualization library
 * [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) ⭐ 1,040 | 🐛 5 | 🌐 C# | 📅 2018-11-16 ![GitHub last commit](https://img.shields.io/github/last-commit/AdultLink/RadialProgressBar?logoSize=auto) - Customizable radial progress bar shader
 * [UnitySimpleFileBrowser](https://github.com/yasirkula/UnitySimpleFileBrowser) ⭐ 995 | 🐛 6 | 🌐 C# | 📅 2026-05-10 ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnitySimpleFileBrowser?logoSize=auto) - Runtime file browser
@@ -911,7 +911,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Effect
 
 * [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl) ⭐ 1,102 | 🐛 2 | 🌐 C# | 📅 2021-02-26 ![GitHub last commit](https://img.shields.io/github/last-commit/Dandarawy/Unity3DBookPageCurl?logoSize=auto) - Page curl effect using UGUI
-* [Unity\_TransparentWindow](https://github.com/XJINE/Unity_TransparentWindow) ⭐ 165 | 🐛 0 | 🌐 C# | 📅 2018-09-10 ![GitHub last commit](https://img.shields.io/github/last-commit/XJINE/Unity_TransparentWindow?logoSize=auto) - Make Unity's window transparent and overlay on desktop
+* [Unity\_TransparentWindow](https://github.com/XJINE/Unity_TransparentWindow) ⭐ 166 | 🐛 0 | 🌐 C# | 📅 2018-09-10 ![GitHub last commit](https://img.shields.io/github/last-commit/XJINE/Unity_TransparentWindow?logoSize=auto) - Make Unity's window transparent and overlay on desktop
 * [Unity-Fade](https://github.com/uzimaru0000/Unity-Fade) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2017-05-13 ![GitHub last commit](https://img.shields.io/github/last-commit/uzimaru0000/Unity-Fade?logoSize=auto) - ImageEffect of fade
 
 ## Trello
@@ -975,7 +975,7 @@ A categorized collection of awesome Unity open source on GitHub.
 * [XRLineRenderer](https://github.com/Unity-Technologies/XRLineRenderer) ⭐ 311 | 🐛 13 | 🌐 C# | 📅 2022-06-06 ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/XRLineRenderer?logoSize=auto) - Mimics rendering with 3d capsules while only using two quads worth of geometry
 * [UniState](https://github.com/bazyleu/UniState) ⭐ 248 | 🐛 0 | 🌐 C# | 📅 2026-07-11 ![GitHub last commit](https://img.shields.io/github/last-commit/bazyleu/UniState?logoSize=auto) - UniState is a modern, high-performance, scalable state machine package for Unity.
 * [InGameReplay](https://github.com/FeNo/InGameReplay) ⭐ 224 | 🐛 0 | 🌐 C# | 📅 2017-02-02 ![GitHub last commit](https://img.shields.io/github/last-commit/FeNo/InGameReplay?logoSize=auto) - Allow you to record the transform of any objects to replay it
-* [vlc-unity](https://github.com/videolan/vlc-unity) ⭐ 222 | 🐛 0 | 🌐 C | 📅 2026-08-26 ![GitHub last commit](https://img.shields.io/github/last-commit/videolan/vlc-unity?logoSize=auto) - LibVLC plugin for Unity to integrate playback inside your Unity apps and games using LibVLCSharp
+* [vlc-unity](https://github.com/videolan/vlc-unity) ⭐ 223 | 🐛 0 | 🌐 C | 📅 2026-08-26 ![GitHub last commit](https://img.shields.io/github/last-commit/videolan/vlc-unity?logoSize=auto) - LibVLC plugin for Unity to integrate playback inside your Unity apps and games using LibVLCSharp
 * [unity-gb](https://github.com/KonsomeJona/unity-gb) ⭐ 216 | 🐛 3 | 🌐 C# | 📅 2017-09-12 ![GitHub last commit](https://img.shields.io/github/last-commit/KonsomeJona/unity-gb?logoSize=auto) - Game Boy emulator for Unity using C# and Mono
 * [Unity-LineSegmentsIntersection](https://github.com/setchi/Unity-LineSegmentsIntersection) ⭐ 199 | 🐛 0 | 🌐 C# | 📅 2019-10-31 ![GitHub last commit](https://img.shields.io/github/last-commit/setchi/Unity-LineSegmentsIntersection?logoSize=auto) - Line segments intersection
 * [vector-graphics-samples](https://github.com/Unity-Technologies/vector-graphics-samples) ⭐ 199 | 🐛 14 | 🌐 C# | 📅 2020-04-20 ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/vector-graphics-samples?logoSize=auto) - SVG and Vector Graphics Sample Project
@@ -1021,7 +1021,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## iOS / Android
 
-* [unity-webview](https://github.com/gree/unity-webview) ⭐ 2,658 | 🐛 441 | 🌐 Objective-C++ | 📅 2026-08-20 ![GitHub last commit](https://img.shields.io/github/last-commit/gree/unity-webview?logoSize=auto) - Web view
+* [unity-webview](https://github.com/gree/unity-webview) ⭐ 2,658 | 🐛 442 | 🌐 Objective-C++ | 📅 2026-08-20 ![GitHub last commit](https://img.shields.io/github/last-commit/gree/unity-webview?logoSize=auto) - Web view
 * [Unity Native Share Plugin](https://github.com/yasirkula/UnityNativeShare) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityNativeShare) - Natively share files (images, videos, documents, etc.) and/or plain text on Android & iOS
 * [UnityNativeCamera](https://github.com/yasirkula/UnityNativeCamera) ⭐ 712 | 🐛 30 | 🌐 C# | 📅 2026-05-10 ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityNativeCamera?logoSize=auto) - Take pictures/record videos with device camera on Android & iOS
 * [Unity Native Camera Plugin](https://github.com/yasirkula/UnityNativeCamera) ⭐ 712 | 🐛 30 | 🌐 C# | 📅 2026-05-10 ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityNativeCamera?logoSize=auto) - Take pictures/record videos with device camera on Android & iOS
@@ -1187,7 +1187,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## TextMesh Pro
 
-* [RTLTMPro](https://github.com/sorencoder/RTLTMPro) ⭐ 713 | 🐛 31 | 🌐 ShaderLab | 📅 2026-04-29 ![GitHub last commit](https://img.shields.io/github/last-commit/sorencoder/RTLTMPro?logoSize=auto) - Right-To-Left Text Mesh Pro
+* [RTLTMPro](https://github.com/sorencoder/RTLTMPro) ⭐ 714 | 🐛 31 | 🌐 ShaderLab | 📅 2026-04-29 ![GitHub last commit](https://img.shields.io/github/last-commit/sorencoder/RTLTMPro?logoSize=auto) - Right-To-Left Text Mesh Pro
 * [CharTweener](https://github.com/mdechatech/CharTweener) ⭐ 406 | 🐛 8 | 🌐 C# | 📅 2022-04-24 ![GitHub last commit](https://img.shields.io/github/last-commit/mdechatech/CharTweener?logoSize=auto) - DOTween extensions for tweening TextMeshPro characters
 * [MeshEffectForTextMeshPro](https://github.com/mob-sakai/MeshEffectForTextMeshPro) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/mob-sakai/MeshEffectForTextMeshPro?logoSize=auto) - Mesh effect components
 * [DissolveEffectForTMPro](https://github.com/mob-sakai/DissolveEffectForTMPro) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/mob-sakai/DissolveEffectForTMPro?logoSize=auto) - Dissolve effect component
@@ -1239,7 +1239,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Reverse Engineering
 
 * [AssetStudio](https://github.com/Perfare/AssetStudio) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/Perfare/AssetStudio?logoSize=auto) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles
-* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) ⭐ 9,343 | 🐛 156 | 🌐 C# | 📅 2024-08-18 ![GitHub last commit](https://img.shields.io/github/last-commit/Perfare/Il2CppDumper?logoSize=auto) - Get types, methods, fields, etc. from Unity Il2Cpp binary file
+* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) ⭐ 9,345 | 🐛 156 | 🌐 C# | 📅 2024-08-18 ![GitHub last commit](https://img.shields.io/github/last-commit/Perfare/Il2CppDumper?logoSize=auto) - Get types, methods, fields, etc. from Unity Il2Cpp binary file
 * [UABE](https://github.com/DerPopo/UABE) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/DerPopo/UABE?logoSize=auto) - Unity Assets Bundle Extractor
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) ⭐ 3,093 | 🐛 892 | 🌐 C# | 📅 2022-01-14 ![GitHub last commit](https://img.shields.io/github/last-commit/mafaca/UtinyRipper?logoSize=auto) - Tool for ripping assets from Engine resource files
 
