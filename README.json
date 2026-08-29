@@ -7592,7 +7592,7 @@
                 "open_issues": 88,
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4559,
+                "stars": 4560,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -8392,7 +8392,7 @@
                 "open_issues": 9,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7609,
+                "stars": 7611,
                 "topics": [
                   "blur",
                   "burn",
@@ -12679,7 +12679,7 @@
                 "open_issues": 20,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11154,
+                "stars": 11155,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -13199,7 +13199,7 @@
                 "open_issues": 101,
                 "owner": "gkngkc",
                 "repo": "UnityStandaloneFileBrowser",
-                "stars": 2459,
+                "stars": 2460,
                 "topics": [
                   "file-browser",
                   "file-chooser",
@@ -17830,7 +17830,7 @@
                 "id": 140735661,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2024-06-04T10:24:05Z",
+                "last_commit": "2026-08-29T10:01:02Z",
                 "open_issues": 12,
                 "owner": "Tayx94",
                 "repo": "graphy",
@@ -18446,7 +18446,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2024-08-18T17:01:30Z",
-                "open_issues": 156,
+                "open_issues": 155,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
                 "stars": 9350,
@@ -19275,7 +19275,7 @@
                 "open_issues": 2,
                 "owner": "Team-on",
                 "repo": "UnityGameTemplate",
-                "stars": 578,
+                "stars": 579,
                 "topics": [
                   "2d",
                   "3d",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:11.624Z",
+    "last_updated": "2026-08-29T11:00:44.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
