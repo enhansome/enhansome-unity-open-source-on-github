@@ -303,7 +303,7 @@
                 "open_issues": 7,
                 "owner": "iBicha",
                 "repo": "ImageEffectGraph",
-                "stars": 173,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -1509,7 +1509,7 @@
                 "open_issues": 1,
                 "owner": "valryon",
                 "repo": "water2d-unity",
-                "stars": 432,
+                "stars": 431,
                 "topics": [
                   "shader",
                   "unity",
@@ -2012,7 +2012,7 @@
                 "open_issues": 3,
                 "owner": "keijiro",
                 "repo": "ShaderGraphExamples",
-                "stars": 1269,
+                "stars": 1268,
                 "topics": [
                   "graphics",
                   "shader",
@@ -2038,7 +2038,7 @@
                 "open_issues": 1,
                 "owner": "andydbc",
                 "repo": "unity-shadergraph-sandbox",
-                "stars": 708,
+                "stars": 707,
                 "topics": [
                   "shader",
                   "shadergraph",
@@ -2072,7 +2072,7 @@
                 "open_issues": 2,
                 "owner": "Chaser324",
                 "repo": "unity-wireframe",
-                "stars": 638,
+                "stars": 639,
                 "topics": [
                   "game-development",
                   "shaders",
@@ -2099,7 +2099,7 @@
                 "open_issues": 4,
                 "owner": "miguel12345",
                 "repo": "UnityWireframeRenderer",
-                "stars": 189,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -2233,7 +2233,7 @@
                 "open_issues": 3,
                 "owner": "andydbc",
                 "repo": "HologramShader",
-                "stars": 988,
+                "stars": 989,
                 "topics": [
                   "effect",
                   "graphics",
@@ -2263,7 +2263,7 @@
                 "open_issues": 3,
                 "owner": "AdultLink",
                 "repo": "HoloShield",
-                "stars": 566,
+                "stars": 565,
                 "topics": [
                   "game-dev",
                   "gamedev",
@@ -2348,7 +2348,7 @@
                 "open_issues": 2,
                 "owner": "sandrofigo",
                 "repo": "VoxReader",
-                "stars": 90,
+                "stars": 91,
                 "topics": [
                   "magica-voxel",
                   "magicavoxel",
@@ -2935,7 +2935,7 @@
                 "open_issues": 1,
                 "owner": "keijiro",
                 "repo": "NoiseBall",
-                "stars": 302,
+                "stars": 301,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -3562,7 +3562,7 @@
                 "open_issues": 0,
                 "owner": "AdultLink",
                 "repo": "Rimlight",
-                "stars": 252,
+                "stars": 251,
                 "topics": [
                   "game-dev",
                   "game-development",
@@ -4492,7 +4492,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-07-18T00:52:37Z",
-                "open_issues": 25,
+                "open_issues": 27,
                 "owner": "WooshiiDev",
                 "repo": "HierarchyDecorator",
                 "stars": 1371,
@@ -5385,7 +5385,7 @@
                 "open_issues": 127,
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
-                "stars": 5204,
+                "stars": 5205,
                 "topics": [
                   "attributes",
                   "extension",
@@ -6519,7 +6519,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-31T19:43:38Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "redbluegames",
                 "repo": "unity-mulligan-renamer",
                 "stars": 590,
@@ -6838,7 +6838,7 @@
                 "open_issues": 0,
                 "owner": "shelleylowe",
                 "repo": "unity-prefab-quickadd",
-                "stars": 41,
+                "stars": 40,
                 "topics": [
                   "prefabs",
                   "unity",
@@ -8392,7 +8392,7 @@
                 "open_issues": 8,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7624,
+                "stars": 7626,
                 "topics": [
                   "blur",
                   "burn",
@@ -8550,7 +8550,7 @@
                 "open_issues": 22,
                 "owner": "kirevdokimov",
                 "repo": "Unity-UI-Rounded-Corners",
-                "stars": 1741,
+                "stars": 1742,
                 "topics": [
                   "c-sharp",
                   "cg",
@@ -8942,7 +8942,7 @@
                 "open_issues": 43,
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 5973,
+                "stars": 5975,
                 "topics": [
                   "component",
                   "effects",
@@ -8972,7 +8972,7 @@
                 "open_issues": 8,
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
-                "stars": 3784,
+                "stars": 3783,
                 "topics": [
                   "chart",
                   "charting",
@@ -9188,7 +9188,7 @@
                 "open_issues": 1,
                 "owner": "hiryma",
                 "repo": "UnitySamples",
-                "stars": 108,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9822,7 +9822,7 @@
                 "open_issues": 11,
                 "owner": "setchi",
                 "repo": "FancyScrollView",
-                "stars": 3524,
+                "stars": 3523,
                 "topics": [
                   "csharp",
                   "infinite-scroll",
@@ -9854,7 +9854,7 @@
                 "open_issues": 1,
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2770,
+                "stars": 2771,
                 "topics": [
                   "ugui",
                   "unity3d"
@@ -10199,7 +10199,7 @@
                 "open_issues": 21,
                 "owner": "all-iver",
                 "repo": "shapes2d",
-                "stars": 164,
+                "stars": 163,
                 "topics": [
                   "2d",
                   "art",
@@ -11211,7 +11211,7 @@
                 "open_issues": 20,
                 "owner": "keenanwoodall",
                 "repo": "Deform",
-                "stars": 3678,
+                "stars": 3679,
                 "topics": [
                   "animation",
                   "deformers",
@@ -11288,7 +11288,7 @@
                 "open_issues": 3,
                 "owner": "OskarSigvardsson",
                 "repo": "unity-delaunay",
-                "stars": 835,
+                "stars": 834,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -11935,7 +11935,7 @@
                 "open_issues": 37,
                 "owner": "cjddmut",
                 "repo": "Unity-2D-Platformer-Controller",
-                "stars": 996,
+                "stars": 995,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12152,7 +12152,7 @@
                 "open_issues": 2,
                 "owner": "xasset",
                 "repo": "xasset",
-                "stars": 2701,
+                "stars": 2700,
                 "topics": [
                   "assetbundle",
                   "unity",
@@ -12363,7 +12363,7 @@
                 "open_issues": 0,
                 "owner": "Bian-Sh",
                 "repo": "UniJoystick",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "canvas",
                   "joystick",
@@ -12472,7 +12472,7 @@
                 "open_issues": 14,
                 "owner": "HiddenMonk",
                 "repo": "Unity3DRuntimeTransformGizmo",
-                "stars": 771,
+                "stars": 772,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12679,7 +12679,7 @@
                 "open_issues": 20,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11162,
+                "stars": 11164,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -12755,7 +12755,7 @@
                 "open_issues": 83,
                 "owner": "TouchScript",
                 "repo": "TouchScript",
-                "stars": 1703,
+                "stars": 1702,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12979,7 +12979,7 @@
                 "open_issues": 0,
                 "owner": "gabrielgiordan",
                 "repo": "unity3d-curves",
-                "stars": 97,
+                "stars": 96,
                 "topics": [
                   "math",
                   "unity3d",
@@ -13142,7 +13142,7 @@
                 "open_issues": 34,
                 "owner": "kou-yeung",
                 "repo": "WebGLInput",
-                "stars": 960,
+                "stars": 961,
                 "topics": [
                   "ime",
                   "unity",
@@ -13301,7 +13301,7 @@
                 "open_issues": 23,
                 "owner": "Unity-Technologies",
                 "repo": "giles",
-                "stars": 794,
+                "stars": 795,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -13322,7 +13322,7 @@
                 "open_issues": 1,
                 "owner": "BayatGames",
                 "repo": "SaveGameFree",
-                "stars": 665,
+                "stars": 664,
                 "topics": [
                   "binary-serialization",
                   "game-data",
@@ -14056,7 +14056,7 @@
                 "open_issues": 0,
                 "owner": "lukakostic",
                 "repo": "UnySplat",
-                "stars": 39,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -14451,7 +14451,7 @@
                 "open_issues": 15,
                 "owner": "mopsicus",
                 "repo": "umi",
-                "stars": 481,
+                "stars": 482,
                 "topics": [
                   "android",
                   "assets",
@@ -14664,6 +14664,32 @@
             },
             {
               "node_type": "item",
+              "title": "Unity-CrossPlatfromAPI",
+              "description": "Provides a unified cross-platform API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A unity plugin that provides a unified cross-platform API",
+                "homepage": "https://www.assetstore.unity3d.com/#!/content/94877",
+                "id": 124175391,
+                "language": "C#",
+                "license": "Apache-2.0",
+                "last_commit": "2018-03-16T01:44:10Z",
+                "open_issues": 0,
+                "owner": "litefeel",
+                "repo": "Unity-CrossPlatformAPI",
+                "stars": 17,
+                "topics": [
+                  "android",
+                  "ios",
+                  "unity",
+                  "unity3d-plugin"
+                ]
+              },
+              "first_seen": "2026-08-28T16:34:34.732Z"
+            },
+            {
+              "node_type": "item",
               "title": "UniVersionManager",
               "description": "Version manager",
               "children": [],
@@ -14680,32 +14706,6 @@
                 "repo": "UniVersionManager",
                 "stars": 16,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T16:34:34.732Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Unity-CrossPlatfromAPI",
-              "description": "Provides a unified cross-platform API",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A unity plugin that provides a unified cross-platform API",
-                "homepage": "https://www.assetstore.unity3d.com/#!/content/94877",
-                "id": 124175391,
-                "language": "C#",
-                "license": "Apache-2.0",
-                "last_commit": "2018-03-16T01:44:10Z",
-                "open_issues": 0,
-                "owner": "litefeel",
-                "repo": "Unity-CrossPlatformAPI",
-                "stars": 16,
-                "topics": [
-                  "android",
-                  "ios",
-                  "unity",
-                  "unity3d-plugin"
-                ]
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
             },
@@ -15162,7 +15162,7 @@
                 "open_issues": 1,
                 "owner": "keijiro",
                 "repo": "Voxelman",
-                "stars": 1981,
+                "stars": 1979,
                 "topics": [
                   "ecs",
                   "unity",
@@ -15321,7 +15321,7 @@
                 "open_issues": 0,
                 "owner": "maajor",
                 "repo": "OSMTrafficSim",
-                "stars": 392,
+                "stars": 393,
                 "topics": [
                   "traffic-simulation",
                   "unity",
@@ -15588,7 +15588,7 @@
                 "open_issues": 0,
                 "owner": "RomanZhu",
                 "repo": "Endless-Runner-Entitas-ECS",
-                "stars": 67,
+                "stars": 66,
                 "topics": [
                   "ecs",
                   "endless-runner",
@@ -15743,7 +15743,7 @@
                 "open_issues": 0,
                 "owner": "elringus",
                 "repo": "sprite-glow",
-                "stars": 2415,
+                "stars": 2414,
                 "topics": [
                   "plugin",
                   "shader",
@@ -15770,7 +15770,7 @@
                 "open_issues": 1,
                 "owner": "elringus",
                 "repo": "sprite-dicing",
-                "stars": 1516,
+                "stars": 1520,
                 "topics": [
                   "atlas",
                   "cli",
@@ -15821,7 +15821,7 @@
                 "open_issues": 13,
                 "owner": "mjholtzem",
                 "repo": "Unity-2D-Destruction",
-                "stars": 668,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -16415,7 +16415,7 @@
                 "open_issues": 1,
                 "owner": "hiryma",
                 "repo": "UnitySamples",
-                "stars": 108,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -16637,7 +16637,7 @@
                 "open_issues": 0,
                 "owner": "TriceHelix",
                 "repo": "GenericBurstJobs",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "burst-compiler",
                   "code-analysis",
@@ -17118,7 +17118,7 @@
                 "open_issues": 1,
                 "owner": "Scrawk",
                 "repo": "PBD-Fluid-in-Unity",
-                "stars": 760,
+                "stars": 759,
                 "topics": [
                   "fluid",
                   "fluid-particles",
@@ -17170,7 +17170,7 @@
                 "open_issues": 3,
                 "owner": "jongallant",
                 "repo": "LiquidSimulator",
-                "stars": 518,
+                "stars": 517,
                 "topics": [
                   "cellular-automata",
                   "liquid",
@@ -17222,7 +17222,7 @@
                 "open_issues": 2,
                 "owner": "jongallant",
                 "repo": "CarSimulator",
-                "stars": 309,
+                "stars": 308,
                 "topics": [
                   "physics-simulation",
                   "simulation",
@@ -17398,7 +17398,7 @@
                 "open_issues": 0,
                 "owner": "OskarSigvardsson",
                 "repo": "quickfracture",
-                "stars": 132,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -17419,7 +17419,7 @@
                 "open_issues": 0,
                 "owner": "unitycoder",
                 "repo": "SimpleMeshExploder",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -17489,7 +17489,7 @@
                 "open_issues": 31,
                 "owner": "pnarimani",
                 "repo": "RTLTMPro",
-                "stars": 715,
+                "stars": 716,
                 "topics": [
                   "arabic",
                   "persian",
@@ -17834,7 +17834,7 @@
                 "open_issues": 12,
                 "owner": "Tayx94",
                 "repo": "graphy",
-                "stars": 2899,
+                "stars": 2900,
                 "topics": [
                   "fps-counter",
                   "stats-for-nerds",
@@ -18425,7 +18425,7 @@
                 "open_issues": 182,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15597,
+                "stars": 15599,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 155,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9359,
+                "stars": 9362,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18475,7 +18475,7 @@
                 "open_issues": 217,
                 "owner": "SeriousCache",
                 "repo": "UABE",
-                "stars": 4143,
+                "stars": 4142,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18648,7 +18648,7 @@
                 "open_issues": 288,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10182,
+                "stars": 10184,
                 "topics": [
                   "csharp",
                   "lua",
@@ -18724,7 +18724,7 @@
                 "open_issues": 6,
                 "owner": "sparklinlabs",
                 "repo": "superpowers-asset-packs",
-                "stars": 1264,
+                "stars": 1265,
                 "topics": [
                   "assets",
                   "cc0",
@@ -18778,7 +18778,7 @@
                 "open_issues": 23,
                 "owner": "kimsama",
                 "repo": "Unity-QuickSheet",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "excel",
                   "spreadsheet",
@@ -18834,7 +18834,7 @@
                 "open_issues": 0,
                 "owner": "doitian",
                 "repo": "unity-git-hooks",
-                "stars": 352,
+                "stars": 353,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18862,7 +18862,7 @@
                 "open_issues": 1,
                 "owner": "dogu-team",
                 "repo": "gamium",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "game",
                   "game-development",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19867,
+                "stars": 19869,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19045,7 +19045,7 @@
                 "open_issues": 5,
                 "owner": "QianMo",
                 "repo": "Unity-Design-Pattern",
-                "stars": 4682,
+                "stars": 4680,
                 "topics": [
                   "bridge-pattern",
                   "command-pattern",
@@ -19275,7 +19275,7 @@
                 "open_issues": 2,
                 "owner": "Team-on",
                 "repo": "UnityGameTemplate",
-                "stars": 581,
+                "stars": 582,
                 "topics": [
                   "2d",
                   "3d",
@@ -19414,7 +19414,7 @@
                 "open_issues": 0,
                 "owner": "dgkanatsios",
                 "repo": "InfiniteRunner3D",
-                "stars": 360,
+                "stars": 359,
                 "topics": [
                   "game",
                   "unity"
@@ -19522,7 +19522,7 @@
                 "open_issues": 2,
                 "owner": "dgkanatsios",
                 "repo": "TowerDefense",
-                "stars": 196,
+                "stars": 195,
                 "topics": [
                   "c-sharp",
                   "game",
@@ -19679,7 +19679,7 @@
                 "open_issues": 1,
                 "owner": "ledpup",
                 "repo": "Othello",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:53:17.841Z",
+    "last_updated": "2026-09-04T08:48:25.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
@@ -19796,7 +19796,7 @@
       "open_issues": 14,
       "owner": "baba-s",
       "repo": "awesome-unity-open-source-on-github",
-      "stars": 4469,
+      "stars": 4472,
       "topics": [
         "awesome-list",
         "unity",
