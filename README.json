@@ -1136,7 +1136,7 @@
                 "open_issues": 25,
                 "owner": "Arvtesh",
                 "repo": "UnityFx.Outline",
-                "stars": 1395,
+                "stars": 1396,
                 "topics": [
                   "image-effects",
                   "outline",
@@ -1185,7 +1185,7 @@
                 "open_issues": 32,
                 "owner": "chrisnolet",
                 "repo": "QuickOutline",
-                "stars": 693,
+                "stars": 694,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -1384,7 +1384,7 @@
                 "open_issues": 84,
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3889,
+                "stars": 3890,
                 "topics": [
                   "displacement-texture",
                   "ocean",
@@ -1441,7 +1441,7 @@
                 "open_issues": 2,
                 "owner": "dbrizov",
                 "repo": "Unity-WaterBuoyancy",
-                "stars": 955,
+                "stars": 956,
                 "topics": [
                   "buoyancy",
                   "simulation",
@@ -2303,7 +2303,7 @@
                 "open_issues": 11,
                 "owner": "mattatz",
                 "repo": "unity-voxel",
-                "stars": 1525,
+                "stars": 1526,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -2642,7 +2642,7 @@
                 "open_issues": 0,
                 "owner": "AdultLink",
                 "repo": "SphereDissolve",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "dissolve",
                   "game-dev",
@@ -3562,7 +3562,7 @@
                 "open_issues": 0,
                 "owner": "AdultLink",
                 "repo": "Rimlight",
-                "stars": 251,
+                "stars": 252,
                 "topics": [
                   "game-dev",
                   "game-development",
@@ -4788,7 +4788,7 @@
                 "open_issues": 28,
                 "owner": "andrumak",
                 "repo": "MyBox",
-                "stars": 2193,
+                "stars": 2192,
                 "topics": [
                   "csharp",
                   "game-development",
@@ -4838,7 +4838,7 @@
                 "open_issues": 7,
                 "owner": "cfoulston",
                 "repo": "Unity-Reorderable-List",
-                "stars": 646,
+                "stars": 645,
                 "topics": [
                   "list",
                   "unity",
@@ -4863,7 +4863,7 @@
                 "open_issues": 7,
                 "owner": "cfoulston",
                 "repo": "Unity-Reorderable-List",
-                "stars": 646,
+                "stars": 645,
                 "topics": [
                   "list",
                   "unity",
@@ -6446,7 +6446,7 @@
                 "id": 138596093,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-07T03:50:34Z",
+                "last_commit": "2026-09-08T07:32:33Z",
                 "open_issues": 0,
                 "owner": "Yu5h1",
                 "repo": "UnityExtension",
@@ -6768,7 +6768,7 @@
                 "open_issues": 7,
                 "owner": "halak",
                 "repo": "unity-editor-icons",
-                "stars": 960,
+                "stars": 961,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7592,7 +7592,7 @@
                 "open_issues": 88,
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4566,
+                "stars": 4565,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7613,7 +7613,7 @@
                 "open_issues": 9,
                 "owner": "marijnz",
                 "repo": "unity-toolbar-extender",
-                "stars": 1946,
+                "stars": 1947,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7694,7 +7694,7 @@
                 "open_issues": 5,
                 "owner": "Demigiant",
                 "repo": "demilib",
-                "stars": 765,
+                "stars": 764,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -8392,7 +8392,7 @@
                 "open_issues": 8,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7632,
+                "stars": 7634,
                 "topics": [
                   "blur",
                   "burn",
@@ -8942,7 +8942,7 @@
                 "open_issues": 42,
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 5978,
+                "stars": 5983,
                 "topics": [
                   "component",
                   "effects",
@@ -8972,7 +8972,7 @@
                 "open_issues": 8,
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
-                "stars": 3783,
+                "stars": 3782,
                 "topics": [
                   "chart",
                   "charting",
@@ -9054,7 +9054,7 @@
                 "open_issues": 1,
                 "owner": "spr1ngd",
                 "repo": "UnityCodes",
-                "stars": 911,
+                "stars": 910,
                 "topics": [
                   "ugui",
                   "unity",
@@ -9100,7 +9100,7 @@
                 "open_issues": 4,
                 "owner": "westhillapps",
                 "repo": "UniGif",
-                "stars": 498,
+                "stars": 497,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9329,7 +9329,7 @@
                 "open_issues": 23,
                 "owner": "redbluegames",
                 "repo": "unity-text-typer",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "ugui",
                   "unity",
@@ -9662,7 +9662,7 @@
                 "open_issues": 0,
                 "owner": "taphos",
                 "repo": "unity-uitest",
-                "stars": 200,
+                "stars": 199,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9822,7 +9822,7 @@
                 "open_issues": 11,
                 "owner": "setchi",
                 "repo": "FancyScrollView",
-                "stars": 3523,
+                "stars": 3522,
                 "topics": [
                   "csharp",
                   "infinite-scroll",
@@ -10886,7 +10886,7 @@
                 "open_issues": 0,
                 "owner": "jeffreylanters",
                 "repo": "unity-tweens",
-                "stars": 696,
+                "stars": 697,
                 "topics": [
                   "animation",
                   "easing",
@@ -11240,7 +11240,7 @@
                 "open_issues": 10,
                 "owner": "DavidArayan",
                 "repo": "ezy-slice",
-                "stars": 2268,
+                "stars": 2269,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -11261,7 +11261,7 @@
                 "open_issues": 7,
                 "owner": "ElasticSea",
                 "repo": "unity-fracture",
-                "stars": 1329,
+                "stars": 1328,
                 "topics": [
                   "blast",
                   "fracture",
@@ -11288,7 +11288,7 @@
                 "open_issues": 3,
                 "owner": "OskarSigvardsson",
                 "repo": "unity-delaunay",
-                "stars": 834,
+                "stars": 833,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -11442,7 +11442,7 @@
                 "open_issues": 9,
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4859,
+                "stars": 4860,
                 "topics": [
                   "procjam",
                   "unity",
@@ -12679,7 +12679,7 @@
                 "open_issues": 20,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11175,
+                "stars": 11176,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -12755,7 +12755,7 @@
                 "open_issues": 83,
                 "owner": "TouchScript",
                 "repo": "TouchScript",
-                "stars": 1702,
+                "stars": 1700,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12933,7 +12933,7 @@
                 "open_issues": 0,
                 "owner": "yasirkula",
                 "repo": "UnityBezierSolution",
-                "stars": 1477,
+                "stars": 1476,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -13230,7 +13230,7 @@
                 "open_issues": 12,
                 "owner": "sturdyspoon",
                 "repo": "unity-movement-ai",
-                "stars": 2138,
+                "stars": 2137,
                 "topics": [
                   "game-ai",
                   "movement",
@@ -13256,7 +13256,7 @@
                 "open_issues": 14,
                 "owner": "thefuntastic",
                 "repo": "Unity3d-Finite-State-Machine",
-                "stars": 1691,
+                "stars": 1690,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -13277,7 +13277,7 @@
                 "open_issues": 16,
                 "owner": "Chman",
                 "repo": "Moments",
-                "stars": 862,
+                "stars": 861,
                 "topics": [
                   "gif",
                   "unity"
@@ -14430,7 +14430,7 @@
                 "open_issues": 27,
                 "owner": "Agasper",
                 "repo": "unity-android-notifications",
-                "stars": 559,
+                "stars": 558,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -14822,7 +14822,7 @@
                 "open_issues": 50,
                 "owner": "yasirkula",
                 "repo": "UnityNativeGallery",
-                "stars": 1618,
+                "stars": 1617,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -14850,27 +14850,6 @@
             },
             {
               "node_type": "item",
-              "title": "Unity_iOSCameraPermission",
-              "description": "Requestes iOS camera permission with a callback method",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Requestes iOS camera permission with a callback method.",
-                "homepage": null,
-                "id": 118018914,
-                "language": "Objective-C",
-                "license": "MIT",
-                "last_commit": "2018-10-25T17:45:35Z",
-                "open_issues": 1,
-                "owner": "CoryButler",
-                "repo": "Unity_iOSCameraPermission",
-                "stars": 44,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:34:34.732Z"
-            },
-            {
-              "node_type": "item",
               "title": "unity-ios-background-run",
               "description": "Little iOS plugin for Unity to work app in background",
               "children": [],
@@ -14885,6 +14864,27 @@
                 "open_issues": 1,
                 "owner": "mopsicus",
                 "repo": "unity-ios-background-run",
+                "stars": 43,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:34:34.732Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Unity_iOSCameraPermission",
+              "description": "Requestes iOS camera permission with a callback method",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Requestes iOS camera permission with a callback method.",
+                "homepage": null,
+                "id": 118018914,
+                "language": "Objective-C",
+                "license": "MIT",
+                "last_commit": "2018-10-25T17:45:35Z",
+                "open_issues": 1,
+                "owner": "CoryButler",
+                "repo": "Unity_iOSCameraPermission",
                 "stars": 43,
                 "topics": []
               },
@@ -15800,7 +15800,7 @@
                 "open_issues": 14,
                 "owner": "traggett",
                 "repo": "UnitySpriteShaders",
-                "stars": 811,
+                "stars": 810,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -16073,7 +16073,7 @@
                 "open_issues": 0,
                 "owner": "bricevdm",
                 "repo": "FogSprites",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -16230,7 +16230,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-04-04T18:18:11Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "yasirkula",
                 "repo": "UnityAssetUsageDetector",
                 "stars": 2049,
@@ -16254,7 +16254,7 @@
                 "open_issues": 17,
                 "owner": "handcircus",
                 "repo": "Unity-Resource-Checker",
-                "stars": 1045,
+                "stars": 1044,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -16712,7 +16712,7 @@
                 "open_issues": 6,
                 "owner": "RyanNielson",
                 "repo": "PixelCamera2D",
-                "stars": 516,
+                "stars": 517,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18101,7 +18101,7 @@
                 "open_issues": 1,
                 "owner": "Robert-K",
                 "repo": "gpu-particles",
-                "stars": 747,
+                "stars": 748,
                 "topics": [
                   "compute-shaders",
                   "gpgpu",
@@ -18267,7 +18267,7 @@
                 "open_issues": 0,
                 "owner": "setchi",
                 "repo": "NoteEditor",
-                "stars": 443,
+                "stars": 444,
                 "topics": [
                   "csharp",
                   "gamedev",
@@ -18425,7 +18425,7 @@
                 "open_issues": 182,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15598,
+                "stars": 15597,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 154,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9374,
+                "stars": 9375,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18499,7 +18499,7 @@
                 "open_issues": 892,
                 "owner": "mafaca",
                 "repo": "UtinyRipper",
-                "stars": 3093,
+                "stars": 3095,
                 "topics": [
                   "asset",
                   "assetbundle",
@@ -18541,7 +18541,7 @@
                 "open_issues": 55,
                 "owner": "arcadia-unity",
                 "repo": "Arcadia",
-                "stars": 1686,
+                "stars": 1687,
                 "topics": [
                   "clojure",
                   "game-development",
@@ -18648,7 +18648,7 @@
                 "open_issues": 288,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10187,
+                "stars": 10190,
                 "topics": [
                   "csharp",
                   "lua",
@@ -18954,7 +18954,7 @@
                 "id": 613697580,
                 "language": "C#",
                 "license": "Zlib",
-                "last_commit": "2026-08-25T18:17:17Z",
+                "last_commit": "2026-09-07T16:00:12Z",
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
@@ -19087,7 +19087,7 @@
                 "open_issues": 14,
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
-                "stars": 2902,
+                "stars": 2901,
                 "topics": [
                   "c-sharp",
                   "pcg",
@@ -19115,7 +19115,7 @@
                 "open_issues": 11,
                 "owner": "PokemonUnity",
                 "repo": "PokemonUnity",
-                "stars": 2024,
+                "stars": 2025,
                 "topics": [
                   "legacy",
                   "pokemon",
@@ -19141,7 +19141,7 @@
                 "open_issues": 3,
                 "owner": "Naphier",
                 "repo": "unity-design-patterns",
-                "stars": 1198,
+                "stars": 1197,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -19162,7 +19162,7 @@
                 "open_issues": 2,
                 "owner": "Unity-Technologies",
                 "repo": "2d-techdemos",
-                "stars": 1017,
+                "stars": 1016,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -19249,7 +19249,7 @@
                 "open_issues": 2,
                 "owner": "dgkanatsios",
                 "repo": "MatchThreeGame",
-                "stars": 620,
+                "stars": 621,
                 "topics": [
                   "c-sharp",
                   "candy-crush",
@@ -19359,7 +19359,7 @@
                 "open_issues": 0,
                 "owner": "federicodangelo",
                 "repo": "CubeWorld",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "c-sharp",
                   "game",
@@ -19438,7 +19438,7 @@
                 "open_issues": 2,
                 "owner": "dgkanatsios",
                 "repo": "FlappyBirdStyleGame",
-                "stars": 318,
+                "stars": 316,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:16:56.107Z",
+    "last_updated": "2026-09-08T08:49:34.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
