@@ -1384,7 +1384,7 @@
                 "open_issues": 84,
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3892,
+                "stars": 3893,
                 "topics": [
                   "displacement-texture",
                   "ocean",
@@ -1509,7 +1509,7 @@
                 "open_issues": 1,
                 "owner": "valryon",
                 "repo": "water2d-unity",
-                "stars": 431,
+                "stars": 432,
                 "topics": [
                   "shader",
                   "unity",
@@ -2324,7 +2324,7 @@
                 "open_issues": 1,
                 "owner": "Scrawk",
                 "repo": "Mesh-Voxelization",
-                "stars": 253,
+                "stars": 254,
                 "topics": [
                   "unity",
                   "voxelization"
@@ -2708,7 +2708,7 @@
                 "open_issues": 4,
                 "owner": "GlaireDaggers",
                 "repo": "RetroTVFX",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -3300,7 +3300,7 @@
                 "open_issues": 3,
                 "owner": "yangrc1234",
                 "repo": "VolumeCloud",
-                "stars": 669,
+                "stars": 670,
                 "topics": [
                   "cloud",
                   "shader",
@@ -4251,27 +4251,6 @@
             },
             {
               "node_type": "item",
-              "title": "UnityFlatShading",
-              "description": "Get a flat look for your models with one click, without touching your mesh",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Get a flat look for your models with one click, without touching your mesh!",
-                "homepage": null,
-                "id": 96826994,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2017-07-10T22:31:30Z",
-                "open_issues": 0,
-                "owner": "miguel12345",
-                "repo": "UnityFlatShading",
-                "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:34:34.732Z"
-            },
-            {
-              "node_type": "item",
               "title": "fun-frag-shaders",
               "description": "Fun fragment shaders you can use in Unity",
               "children": [],
@@ -4286,6 +4265,27 @@
                 "open_issues": 0,
                 "owner": "makinori",
                 "repo": "fun-frag-shaders",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:34:34.732Z"
+            },
+            {
+              "node_type": "item",
+              "title": "UnityFlatShading",
+              "description": "Get a flat look for your models with one click, without touching your mesh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Get a flat look for your models with one click, without touching your mesh!",
+                "homepage": null,
+                "id": 96826994,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2017-07-10T22:31:30Z",
+                "open_issues": 0,
+                "owner": "miguel12345",
+                "repo": "UnityFlatShading",
                 "stars": 18,
                 "topics": []
               },
@@ -4492,10 +4492,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-07-18T00:52:37Z",
-                "open_issues": 28,
+                "open_issues": 27,
                 "owner": "WooshiiDev",
                 "repo": "HierarchyDecorator",
-                "stars": 1375,
+                "stars": 1374,
                 "topics": [
                   "editor",
                   "hierarchy",
@@ -8392,7 +8392,7 @@
                 "open_issues": 9,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7640,
+                "stars": 7641,
                 "topics": [
                   "blur",
                   "burn",
@@ -9822,7 +9822,7 @@
                 "open_issues": 11,
                 "owner": "setchi",
                 "repo": "FancyScrollView",
-                "stars": 3524,
+                "stars": 3525,
                 "topics": [
                   "csharp",
                   "infinite-scroll",
@@ -11211,7 +11211,7 @@
                 "open_issues": 20,
                 "owner": "keenanwoodall",
                 "repo": "Deform",
-                "stars": 3683,
+                "stars": 3684,
                 "topics": [
                   "animation",
                   "deformers",
@@ -11935,7 +11935,7 @@
                 "open_issues": 37,
                 "owner": "cjddmut",
                 "repo": "Unity-2D-Platformer-Controller",
-                "stars": 996,
+                "stars": 998,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12679,7 +12679,7 @@
                 "open_issues": 21,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11184,
+                "stars": 11188,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -12755,7 +12755,7 @@
                 "open_issues": 83,
                 "owner": "TouchScript",
                 "repo": "TouchScript",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -15770,7 +15770,7 @@
                 "open_issues": 1,
                 "owner": "elringus",
                 "repo": "sprite-dicing",
-                "stars": 1526,
+                "stars": 1527,
                 "topics": [
                   "atlas",
                   "cli",
@@ -16229,8 +16229,8 @@
                 "id": 60101045,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-04-04T18:18:11Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-12T21:44:08Z",
+                "open_issues": 0,
                 "owner": "yasirkula",
                 "repo": "UnityAssetUsageDetector",
                 "stars": 2049,
@@ -17834,7 +17834,7 @@
                 "open_issues": 12,
                 "owner": "Tayx94",
                 "repo": "graphy",
-                "stars": 2903,
+                "stars": 2904,
                 "topics": [
                   "fps-counter",
                   "stats-for-nerds",
@@ -18296,7 +18296,7 @@
                 "open_issues": 0,
                 "owner": "geekdrums",
                 "repo": "MusicEngine",
-                "stars": 420,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18425,7 +18425,7 @@
                 "open_issues": 182,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15593,
+                "stars": 15595,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 154,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9381,
+                "stars": 9383,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18958,7 +18958,7 @@
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 941,
+                "stars": 942,
                 "topics": [
                   "ai",
                   "crowd-simulation",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19888,
+                "stars": 19890,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19087,7 +19087,7 @@
                 "open_issues": 14,
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
-                "stars": 2903,
+                "stars": 2904,
                 "topics": [
                   "c-sharp",
                   "pcg",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:36:16.367Z",
+    "last_updated": "2026-09-13T09:32:23.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
