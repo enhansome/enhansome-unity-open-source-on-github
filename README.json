@@ -1384,7 +1384,7 @@
                 "open_issues": 83,
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3895,
+                "stars": 3896,
                 "topics": [
                   "displacement-texture",
                   "ocean",
@@ -1412,7 +1412,7 @@
                 "open_issues": 9,
                 "owner": "eliasts",
                 "repo": "Ocean_Community_Next_Gen",
-                "stars": 1077,
+                "stars": 1078,
                 "topics": [
                   "ocean",
                   "sea",
@@ -3347,7 +3347,7 @@
                 "open_issues": 0,
                 "owner": "keijiro",
                 "repo": "RippleEffect",
-                "stars": 510,
+                "stars": 511,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -4495,7 +4495,7 @@
                 "open_issues": 27,
                 "owner": "WooshiiDev",
                 "repo": "HierarchyDecorator",
-                "stars": 1374,
+                "stars": 1373,
                 "topics": [
                   "editor",
                   "hierarchy",
@@ -4511,13 +4511,13 @@
               "description": "Unity extension to show component icons in the Hierarchy",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Unity editor extension to show component icons in the Hierarchy.",
                 "homepage": null,
                 "id": 16703326,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2025-06-11T01:00:29Z",
+                "last_commit": "2026-09-15T01:50:46Z",
                 "open_issues": 1,
                 "owner": "mminer",
                 "repo": "hierarchy-icons",
@@ -4707,7 +4707,7 @@
                 "open_issues": 0,
                 "owner": "Borod4r",
                 "repo": "unity3d-rainbow-folders",
-                "stars": 651,
+                "stars": 650,
                 "topics": [
                   "unity",
                   "unity-asset",
@@ -5377,7 +5377,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "Attribute Extensions for Unity",
-                "homepage": null,
+                "homepage": "https://naughtyattributes.com/",
                 "id": 107134451,
                 "language": "C#",
                 "license": "MIT",
@@ -6366,14 +6366,14 @@
               "description": "To navigate between object selections",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Unity editor extension to navigate between object selections.",
                 "homepage": "http://matthewminer.com/2018/04/22/unity-selection-history-navigator",
                 "id": 130531330,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2025-08-24T19:06:58Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-15T01:46:18Z",
+                "open_issues": 0,
                 "owner": "mminer",
                 "repo": "selection-history-navigator",
                 "stars": 33,
@@ -6446,7 +6446,7 @@
                 "id": 138596093,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-08T07:32:33Z",
+                "last_commit": "2026-09-14T15:21:46Z",
                 "open_issues": 0,
                 "owner": "Yu5h1",
                 "repo": "UnityExtension",
@@ -7020,7 +7020,7 @@
                 "open_issues": 19,
                 "owner": "zios",
                 "repo": "unity-themes",
-                "stars": 524,
+                "stars": 523,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7454,7 +7454,7 @@
                 "open_issues": 73,
                 "owner": "Seanba",
                 "repo": "SuperTiled2Unity",
-                "stars": 782,
+                "stars": 781,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7613,7 +7613,7 @@
                 "open_issues": 9,
                 "owner": "marijnz",
                 "repo": "unity-toolbar-extender",
-                "stars": 1947,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -8392,7 +8392,7 @@
                 "open_issues": 9,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7645,
+                "stars": 7649,
                 "topics": [
                   "blur",
                   "burn",
@@ -8972,7 +8972,7 @@
                 "open_issues": 8,
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
-                "stars": 3784,
+                "stars": 3783,
                 "topics": [
                   "chart",
                   "charting",
@@ -11211,7 +11211,7 @@
                 "open_issues": 20,
                 "owner": "keenanwoodall",
                 "repo": "Deform",
-                "stars": 3684,
+                "stars": 3683,
                 "topics": [
                   "animation",
                   "deformers",
@@ -12521,7 +12521,7 @@
                 "open_issues": 2,
                 "owner": "Dandarawy",
                 "repo": "UnityBookPageCurl",
-                "stars": 1101,
+                "stars": 1102,
                 "topics": [
                   "book",
                   "curl",
@@ -12679,7 +12679,7 @@
                 "open_issues": 21,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11190,
+                "stars": 11192,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -13142,7 +13142,7 @@
                 "open_issues": 34,
                 "owner": "kou-yeung",
                 "repo": "WebGLInput",
-                "stars": 961,
+                "stars": 962,
                 "topics": [
                   "ime",
                   "unity",
@@ -13230,7 +13230,7 @@
                 "open_issues": 12,
                 "owner": "sturdyspoon",
                 "repo": "unity-movement-ai",
-                "stars": 2137,
+                "stars": 2136,
                 "topics": [
                   "game-ai",
                   "movement",
@@ -13482,7 +13482,7 @@
                 "id": 234382398,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T09:56:11Z",
+                "last_commit": "2026-09-14T15:09:18Z",
                 "open_issues": 0,
                 "owner": "videolan",
                 "repo": "vlc-unity",
@@ -14819,10 +14819,10 @@
                 "language": "Objective-C++",
                 "license": "MIT",
                 "last_commit": "2026-07-09T15:46:28Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "yasirkula",
                 "repo": "UnityNativeGallery",
-                "stars": 1618,
+                "stars": 1617,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -15162,7 +15162,7 @@
                 "open_issues": 1,
                 "owner": "keijiro",
                 "repo": "Voxelman",
-                "stars": 1981,
+                "stars": 1982,
                 "topics": [
                   "ecs",
                   "unity",
@@ -15926,7 +15926,7 @@
                 "open_issues": 0,
                 "owner": "keenanwoodall",
                 "repo": "SimpleSquashAndStretchMovement2D",
-                "stars": 112,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -16233,7 +16233,7 @@
                 "open_issues": 0,
                 "owner": "yasirkula",
                 "repo": "UnityAssetUsageDetector",
-                "stars": 2049,
+                "stars": 2050,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -17118,7 +17118,7 @@
                 "open_issues": 1,
                 "owner": "Scrawk",
                 "repo": "PBD-Fluid-in-Unity",
-                "stars": 759,
+                "stars": 760,
                 "topics": [
                   "fluid",
                   "fluid-particles",
@@ -17289,7 +17289,7 @@
                 "open_issues": 0,
                 "owner": "keenanwoodall",
                 "repo": "Piranha",
-                "stars": 279,
+                "stars": 278,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18267,7 +18267,7 @@
                 "open_issues": 0,
                 "owner": "setchi",
                 "repo": "NoteEditor",
-                "stars": 444,
+                "stars": 443,
                 "topics": [
                   "csharp",
                   "gamedev",
@@ -18449,7 +18449,7 @@
                 "open_issues": 154,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9387,
+                "stars": 9388,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18499,7 +18499,7 @@
                 "open_issues": 893,
                 "owner": "mafaca",
                 "repo": "UtinyRipper",
-                "stars": 3096,
+                "stars": 3097,
                 "topics": [
                   "asset",
                   "assetbundle",
@@ -18541,7 +18541,7 @@
                 "open_issues": 55,
                 "owner": "arcadia-unity",
                 "repo": "Arcadia",
-                "stars": 1687,
+                "stars": 1688,
                 "topics": [
                   "clojure",
                   "game-development",
@@ -18645,10 +18645,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2025-11-21T07:14:15Z",
-                "open_issues": 288,
+                "open_issues": 289,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10192,
+                "stars": 10194,
                 "topics": [
                   "csharp",
                   "lua",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19891,
+                "stars": 19896,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19087,7 +19087,7 @@
                 "open_issues": 14,
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
-                "stars": 2904,
+                "stars": 2903,
                 "topics": [
                   "c-sharp",
                   "pcg",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:48:00.008Z",
+    "last_updated": "2026-09-15T09:22:20.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
@@ -19796,7 +19796,7 @@
       "open_issues": 14,
       "owner": "baba-s",
       "repo": "awesome-unity-open-source-on-github",
-      "stars": 4475,
+      "stars": 4477,
       "topics": [
         "awesome-list",
         "unity",
