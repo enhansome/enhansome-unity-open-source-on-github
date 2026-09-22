@@ -1384,7 +1384,7 @@
                 "open_issues": 83,
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3900,
+                "stars": 3901,
                 "topics": [
                   "displacement-texture",
                   "ocean",
@@ -1714,7 +1714,7 @@
                 "open_issues": 0,
                 "owner": "pavelkouril",
                 "repo": "unity-lowpoly-shader",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "lowpoly",
                   "shader",
@@ -1788,7 +1788,7 @@
                 "open_issues": 14,
                 "owner": "PavelDoGreat",
                 "repo": "Super-Blur",
-                "stars": 1072,
+                "stars": 1073,
                 "topics": [
                   "blur",
                   "effects",
@@ -2757,7 +2757,7 @@
                 "open_issues": 0,
                 "owner": "mattatz",
                 "repo": "unity-mesh-builder",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -3175,7 +3175,7 @@
                 "open_issues": 9,
                 "owner": "ronja-tutorials",
                 "repo": "ShaderTutorials",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -8392,7 +8392,7 @@
                 "open_issues": 9,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7661,
+                "stars": 7662,
                 "topics": [
                   "blur",
                   "burn",
@@ -8550,7 +8550,7 @@
                 "open_issues": 22,
                 "owner": "kirevdokimov",
                 "repo": "Unity-UI-Rounded-Corners",
-                "stars": 1745,
+                "stars": 1746,
                 "topics": [
                   "c-sharp",
                   "cg",
@@ -8942,7 +8942,7 @@
                 "open_issues": 43,
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 6000,
+                "stars": 6001,
                 "topics": [
                   "component",
                   "effects",
@@ -9033,7 +9033,7 @@
                 "open_issues": 6,
                 "owner": "yasirkula",
                 "repo": "UnitySimpleFileBrowser",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9329,7 +9329,7 @@
                 "open_issues": 23,
                 "owner": "redbluegames",
                 "repo": "unity-text-typer",
-                "stars": 323,
+                "stars": 322,
                 "topics": [
                   "ugui",
                   "unity",
@@ -9635,7 +9635,7 @@
                 "open_issues": 1,
                 "owner": "mminer",
                 "repo": "consolation",
-                "stars": 895,
+                "stars": 894,
                 "topics": [
                   "game-dev",
                   "game-development",
@@ -9995,7 +9995,7 @@
                 "open_issues": 13,
                 "owner": "mob-sakai",
                 "repo": "SoftMaskForUGUI",
-                "stars": 2829,
+                "stars": 2831,
                 "topics": [
                   "components",
                   "mask",
@@ -11442,7 +11442,7 @@
                 "open_issues": 9,
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4860,
+                "stars": 4861,
                 "topics": [
                   "procjam",
                   "unity",
@@ -12152,7 +12152,7 @@
                 "open_issues": 2,
                 "owner": "xasset",
                 "repo": "xasset",
-                "stars": 2698,
+                "stars": 2697,
                 "topics": [
                   "assetbundle",
                   "unity",
@@ -12776,7 +12776,7 @@
                 "open_issues": 15,
                 "owner": "prime31",
                 "repo": "TouchKit",
-                "stars": 915,
+                "stars": 914,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -13174,7 +13174,7 @@
                 "open_issues": 10,
                 "owner": "github-for-unity",
                 "repo": "Unity",
-                "stars": 3217,
+                "stars": 3218,
                 "topics": [
                   "git",
                   "github",
@@ -13256,7 +13256,7 @@
                 "open_issues": 14,
                 "owner": "thefuntastic",
                 "repo": "Unity3d-Finite-State-Machine",
-                "stars": 1690,
+                "stars": 1689,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -13430,7 +13430,7 @@
                 "open_issues": 0,
                 "owner": "bazyleu",
                 "repo": "UniState",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "asynchronous-programming",
                   "game-architecture",
@@ -13465,7 +13465,7 @@
                 "open_issues": 0,
                 "owner": "videolan",
                 "repo": "vlc-unity",
-                "stars": 226,
+                "stars": 227,
                 "topics": [
                   "audio",
                   "codecs",
@@ -14822,7 +14822,7 @@
                 "open_issues": 51,
                 "owner": "yasirkula",
                 "repo": "UnityNativeGallery",
-                "stars": 1618,
+                "stars": 1619,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -16233,7 +16233,7 @@
                 "open_issues": 0,
                 "owner": "yasirkula",
                 "repo": "UnityAssetUsageDetector",
-                "stars": 2052,
+                "stars": 2053,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -17489,7 +17489,7 @@
                 "open_issues": 31,
                 "owner": "pnarimani",
                 "repo": "RTLTMPro",
-                "stars": 720,
+                "stars": 721,
                 "topics": [
                   "arabic",
                   "persian",
@@ -17632,7 +17632,7 @@
                 "open_issues": 1,
                 "owner": "baba-s",
                 "repo": "TMP_Typewriter",
-                "stars": 105,
+                "stars": 104,
                 "topics": [
                   "kogane-unity-lib",
                   "textmeshpro",
@@ -17834,7 +17834,7 @@
                 "open_issues": 12,
                 "owner": "Tayx94",
                 "repo": "graphy",
-                "stars": 2906,
+                "stars": 2907,
                 "topics": [
                   "fps-counter",
                   "stats-for-nerds",
@@ -18449,7 +18449,7 @@
                 "open_issues": 155,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9418,
+                "stars": 9421,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18499,7 +18499,7 @@
                 "open_issues": 893,
                 "owner": "mafaca",
                 "repo": "UtinyRipper",
-                "stars": 3096,
+                "stars": 3097,
                 "topics": [
                   "asset",
                   "assetbundle",
@@ -18778,7 +18778,7 @@
                 "open_issues": 23,
                 "owner": "kimsama",
                 "repo": "Unity-QuickSheet",
-                "stars": 1085,
+                "stars": 1084,
                 "topics": [
                   "excel",
                   "spreadsheet",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19917,
+                "stars": 19918,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19087,7 +19087,7 @@
                 "open_issues": 14,
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
-                "stars": 2906,
+                "stars": 2908,
                 "topics": [
                   "c-sharp",
                   "pcg",
@@ -19115,7 +19115,7 @@
                 "open_issues": 11,
                 "owner": "PokemonUnity",
                 "repo": "PokemonUnity",
-                "stars": 2027,
+                "stars": 2028,
                 "topics": [
                   "legacy",
                   "pokemon",
@@ -19183,7 +19183,7 @@
                 "open_issues": 3,
                 "owner": "BayatGames",
                 "repo": "RedRunner",
-                "stars": 920,
+                "stars": 921,
                 "topics": [
                   "fantasy",
                   "free",
@@ -19385,7 +19385,7 @@
                 "open_issues": 6,
                 "owner": "maxilevi",
                 "repo": "project-skylines",
-                "stars": 371,
+                "stars": 372,
                 "topics": [
                   "3d-game",
                   "csharp",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T09:52:17.657Z",
+    "last_updated": "2026-09-22T09:15:48.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
