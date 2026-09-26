@@ -1381,7 +1381,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-06-18T06:36:17Z",
-                "open_issues": 84,
+                "open_issues": 83,
                 "owner": "wave-harmonic",
                 "repo": "crest",
                 "stars": 3904,
@@ -3347,7 +3347,7 @@
                 "open_issues": 0,
                 "owner": "keijiro",
                 "repo": "RippleEffect",
-                "stars": 511,
+                "stars": 512,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -4495,7 +4495,7 @@
                 "open_issues": 27,
                 "owner": "WooshiiDev",
                 "repo": "HierarchyDecorator",
-                "stars": 1376,
+                "stars": 1377,
                 "topics": [
                   "editor",
                   "hierarchy",
@@ -4569,7 +4569,7 @@
                 "open_issues": 1,
                 "owner": "Demkeys",
                 "repo": "CategoryTool",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "category-gameobjects",
                   "csharp",
@@ -4647,7 +4647,7 @@
                 "open_issues": 0,
                 "owner": "baba-s",
                 "repo": "UniHierarchyMenuCustomizer",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "kogane-unity-lib",
                   "unity",
@@ -8392,7 +8392,7 @@
                 "open_issues": 9,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7667,
+                "stars": 7668,
                 "topics": [
                   "blur",
                   "burn",
@@ -8550,7 +8550,7 @@
                 "open_issues": 22,
                 "owner": "kirevdokimov",
                 "repo": "Unity-UI-Rounded-Corners",
-                "stars": 1748,
+                "stars": 1749,
                 "topics": [
                   "c-sharp",
                   "cg",
@@ -9593,7 +9593,7 @@
                 "open_issues": 9,
                 "owner": "yasirkula",
                 "repo": "UnityIngameDebugConsole",
-                "stars": 2737,
+                "stars": 2738,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9614,7 +9614,7 @@
                 "open_issues": 10,
                 "owner": "yasirkula",
                 "repo": "UnityRuntimeInspector",
-                "stars": 2167,
+                "stars": 2168,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9854,7 +9854,7 @@
                 "open_issues": 2,
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2773,
+                "stars": 2772,
                 "topics": [
                   "ugui",
                   "unity3d"
@@ -9995,7 +9995,7 @@
                 "open_issues": 13,
                 "owner": "mob-sakai",
                 "repo": "SoftMaskForUGUI",
-                "stars": 2833,
+                "stars": 2834,
                 "topics": [
                   "components",
                   "mask",
@@ -10157,7 +10157,7 @@
                 "open_issues": 3,
                 "owner": "CiaccoDavide",
                 "repo": "Unity-UI-Polygon",
-                "stars": 642,
+                "stars": 643,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -10663,7 +10663,7 @@
                 "open_issues": 0,
                 "owner": "baba-s",
                 "repo": "UniUGUIToolbar",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "kogane-unity-lib",
                   "unity",
@@ -11211,7 +11211,7 @@
                 "open_issues": 20,
                 "owner": "keenanwoodall",
                 "repo": "Deform",
-                "stars": 3694,
+                "stars": 3695,
                 "topics": [
                   "animation",
                   "deformers",
@@ -11829,7 +11829,7 @@
                 "open_issues": 0,
                 "owner": "mminer",
                 "repo": "unity-extensions",
-                "stars": 90,
+                "stars": 91,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -11935,7 +11935,7 @@
                 "open_issues": 37,
                 "owner": "cjddmut",
                 "repo": "Unity-2D-Platformer-Controller",
-                "stars": 998,
+                "stars": 1000,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12261,7 +12261,7 @@
                 "open_issues": 43,
                 "owner": "Looking-Glass",
                 "repo": "JoyconLib",
-                "stars": 502,
+                "stars": 501,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12679,7 +12679,7 @@
                 "open_issues": 19,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11216,
+                "stars": 11217,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -13465,7 +13465,7 @@
                 "open_issues": 0,
                 "owner": "videolan",
                 "repo": "vlc-unity",
-                "stars": 228,
+                "stars": 229,
                 "topics": [
                   "audio",
                   "codecs",
@@ -17118,7 +17118,7 @@
                 "open_issues": 1,
                 "owner": "Scrawk",
                 "repo": "PBD-Fluid-in-Unity",
-                "stars": 759,
+                "stars": 760,
                 "topics": [
                   "fluid",
                   "fluid-particles",
@@ -18101,7 +18101,7 @@
                 "open_issues": 1,
                 "owner": "Robert-K",
                 "repo": "gpu-particles",
-                "stars": 748,
+                "stars": 749,
                 "topics": [
                   "compute-shaders",
                   "gpgpu",
@@ -18425,7 +18425,7 @@
                 "open_issues": 182,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15599,
+                "stars": 15601,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 155,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9432,
+                "stars": 9435,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18499,7 +18499,7 @@
                 "open_issues": 893,
                 "owner": "mafaca",
                 "repo": "UtinyRipper",
-                "stars": 3098,
+                "stars": 3099,
                 "topics": [
                   "asset",
                   "assetbundle",
@@ -18648,7 +18648,7 @@
                 "open_issues": 288,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10198,
+                "stars": 10199,
                 "topics": [
                   "csharp",
                   "lua",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19921,
+                "stars": 19920,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:33:51.454Z",
+    "last_updated": "2026-09-26T09:18:34.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
@@ -19796,7 +19796,7 @@
       "open_issues": 14,
       "owner": "baba-s",
       "repo": "awesome-unity-open-source-on-github",
-      "stars": 4480,
+      "stars": 4479,
       "topics": [
         "awesome-list",
         "unity",
