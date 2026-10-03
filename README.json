@@ -179,7 +179,7 @@
                 "open_issues": 0,
                 "owner": "igradeca",
                 "repo": "Unity-Shaders",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -1384,7 +1384,7 @@
                 "open_issues": 82,
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3909,
+                "stars": 3910,
                 "topics": [
                   "displacement-texture",
                   "ocean",
@@ -13114,7 +13114,7 @@
                 "open_issues": 0,
                 "owner": "inkle",
                 "repo": "prototype",
-                "stars": 101,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18449,7 +18449,7 @@
                 "open_issues": 154,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9448,
+                "stars": 9449,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18499,7 +18499,7 @@
                 "open_issues": 893,
                 "owner": "mafaca",
                 "repo": "UtinyRipper",
-                "stars": 3102,
+                "stars": 3101,
                 "topics": [
                   "asset",
                   "assetbundle",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:25.761Z",
+    "last_updated": "2026-10-03T09:49:07.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
