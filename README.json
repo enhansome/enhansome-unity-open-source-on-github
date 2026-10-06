@@ -3217,7 +3217,7 @@
                 "open_issues": 6,
                 "owner": "keijiro",
                 "repo": "KinoFog",
-                "stars": 979,
+                "stars": 978,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12675,8 +12675,8 @@
                 "id": 187499284,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:35:24Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-06T11:12:50Z",
+                "open_issues": 20,
                 "owner": "Cysharp",
                 "repo": "UniTask",
                 "stars": 11237,
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:54:51.514Z",
+    "last_updated": "2026-10-06T11:12:45.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
