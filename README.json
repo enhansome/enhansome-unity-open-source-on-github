@@ -5382,7 +5382,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-16T16:24:58Z",
-                "open_issues": 130,
+                "open_issues": 132,
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
                 "stars": 5220,
@@ -6768,7 +6768,7 @@
                 "open_issues": 7,
                 "owner": "halak",
                 "repo": "unity-editor-icons",
-                "stars": 961,
+                "stars": 962,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7592,7 +7592,7 @@
                 "open_issues": 91,
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4573,
+                "stars": 4572,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -8942,7 +8942,7 @@
                 "open_issues": 43,
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 6018,
+                "stars": 6019,
                 "topics": [
                   "component",
                   "effects",
@@ -9079,7 +9079,7 @@
                 "open_issues": 22,
                 "owner": "Invex-Games",
                 "repo": "MaterialUI",
-                "stars": 772,
+                "stars": 770,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9593,7 +9593,7 @@
                 "open_issues": 9,
                 "owner": "yasirkula",
                 "repo": "UnityIngameDebugConsole",
-                "stars": 2743,
+                "stars": 2744,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9854,7 +9854,7 @@
                 "open_issues": 2,
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2775,
+                "stars": 2776,
                 "topics": [
                   "ugui",
                   "unity3d"
@@ -13230,7 +13230,7 @@
                 "open_issues": 12,
                 "owner": "sturdyspoon",
                 "repo": "unity-movement-ai",
-                "stars": 2135,
+                "stars": 2132,
                 "topics": [
                   "game-ai",
                   "movement",
@@ -13430,7 +13430,7 @@
                 "open_issues": 0,
                 "owner": "bazyleu",
                 "repo": "UniState",
-                "stars": 253,
+                "stars": 252,
                 "topics": [
                   "asynchronous-programming",
                   "game-architecture",
@@ -13716,7 +13716,7 @@
                 "open_issues": 3,
                 "owner": "pdo400",
                 "repo": "smooth.foundations",
-                "stars": 116,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -14343,10 +14343,10 @@
                 "language": "Objective-C++",
                 "license": "Zlib",
                 "last_commit": "2026-10-15T09:59:27Z",
-                "open_issues": 444,
+                "open_issues": 443,
                 "owner": "gree",
                 "repo": "unity-webview",
-                "stars": 2677,
+                "stars": 2676,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -15770,7 +15770,7 @@
                 "open_issues": 1,
                 "owner": "elringus",
                 "repo": "sprite-dicing",
-                "stars": 1539,
+                "stars": 1540,
                 "topics": [
                   "atlas",
                   "cli",
@@ -16229,8 +16229,8 @@
                 "id": 60101045,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-12T21:44:08Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-17T05:00:16Z",
+                "open_issues": 0,
                 "owner": "yasirkula",
                 "repo": "UnityAssetUsageDetector",
                 "stars": 2058,
@@ -18425,7 +18425,7 @@
                 "open_issues": 182,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15592,
+                "stars": 15590,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 155,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9515,
+                "stars": 9524,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18475,7 +18475,7 @@
                 "open_issues": 217,
                 "owner": "SeriousCache",
                 "repo": "UABE",
-                "stars": 4135,
+                "stars": 4134,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18648,7 +18648,7 @@
                 "open_issues": 288,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10200,
+                "stars": 10201,
                 "topics": [
                   "csharp",
                   "lua",
@@ -18696,7 +18696,7 @@
                 "open_issues": 12,
                 "owner": "topameng",
                 "repo": "tolua_runtime",
-                "stars": 404,
+                "stars": 405,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19962,
+                "stars": 19964,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19141,7 +19141,7 @@
                 "open_issues": 3,
                 "owner": "Naphier",
                 "repo": "unity-design-patterns",
-                "stars": 1195,
+                "stars": 1194,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -19438,7 +19438,7 @@
                 "open_issues": 2,
                 "owner": "dgkanatsios",
                 "repo": "FlappyBirdStyleGame",
-                "stars": 319,
+                "stars": 318,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T08:58:20.221Z",
+    "last_updated": "2026-10-17T08:30:25.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
