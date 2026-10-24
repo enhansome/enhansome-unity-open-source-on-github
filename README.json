@@ -1136,7 +1136,7 @@
                 "open_issues": 25,
                 "owner": "Arvtesh",
                 "repo": "UnityFx.Outline",
-                "stars": 1394,
+                "stars": 1393,
                 "topics": [
                   "image-effects",
                   "outline",
@@ -1660,7 +1660,7 @@
                 "open_issues": 3,
                 "owner": "danielzeller",
                 "repo": "Lowpoly-Water-Unity",
-                "stars": 510,
+                "stars": 511,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -2613,7 +2613,7 @@
                 "open_issues": 1,
                 "owner": "AdultLink",
                 "repo": "VerticalDissolve",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -4495,7 +4495,7 @@
                 "open_issues": 24,
                 "owner": "WooshiiDev",
                 "repo": "HierarchyDecorator",
-                "stars": 1382,
+                "stars": 1383,
                 "topics": [
                   "editor",
                   "hierarchy",
@@ -4785,7 +4785,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-05-22T10:41:24Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "andrumak",
                 "repo": "MyBox",
                 "stars": 2196,
@@ -4954,7 +4954,7 @@
                 "open_issues": 0,
                 "owner": "raphael-ernaelsten",
                 "repo": "Texture3DPreview-for-Unity",
-                "stars": 243,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -5385,7 +5385,7 @@
                 "open_issues": 132,
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
-                "stars": 5226,
+                "stars": 5227,
                 "topics": [
                   "attributes",
                   "extension",
@@ -6522,7 +6522,7 @@
                 "open_issues": 24,
                 "owner": "redbluegames",
                 "repo": "unity-mulligan-renamer",
-                "stars": 593,
+                "stars": 594,
                 "topics": [
                   "hacktoberfest",
                   "hacktoberfest2020",
@@ -8972,7 +8972,7 @@
                 "open_issues": 8,
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
-                "stars": 3798,
+                "stars": 3799,
                 "topics": [
                   "chart",
                   "charting",
@@ -9614,7 +9614,7 @@
                 "open_issues": 10,
                 "owner": "yasirkula",
                 "repo": "UnityRuntimeInspector",
-                "stars": 2175,
+                "stars": 2176,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9854,7 +9854,7 @@
                 "open_issues": 2,
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2777,
+                "stars": 2778,
                 "topics": [
                   "ugui",
                   "unity3d"
@@ -11211,7 +11211,7 @@
                 "open_issues": 20,
                 "owner": "keenanwoodall",
                 "repo": "Deform",
-                "stars": 3702,
+                "stars": 3703,
                 "topics": [
                   "animation",
                   "deformers",
@@ -11240,7 +11240,7 @@
                 "open_issues": 10,
                 "owner": "DavidArayan",
                 "repo": "ezy-slice",
-                "stars": 2280,
+                "stars": 2279,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -11442,7 +11442,7 @@
                 "open_issues": 9,
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4866,
+                "stars": 4867,
                 "topics": [
                   "procjam",
                   "unity",
@@ -11509,7 +11509,7 @@
                 "open_issues": 1,
                 "owner": "yasirkula",
                 "repo": "UnityRuntimePreviewGenerator",
-                "stars": 332,
+                "stars": 331,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12679,7 +12679,7 @@
                 "open_issues": 26,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11264,
+                "stars": 11265,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -16788,7 +16788,7 @@
                 "open_issues": 2,
                 "owner": "lopespm",
                 "repo": "unity-camera-multi-target",
-                "stars": 231,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18446,7 +18446,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2024-08-18T17:01:30Z",
-                "open_issues": 155,
+                "open_issues": 156,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
                 "stars": 9547,
@@ -18475,7 +18475,7 @@
                 "open_issues": 217,
                 "owner": "SeriousCache",
                 "repo": "UABE",
-                "stars": 4131,
+                "stars": 4130,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18648,7 +18648,7 @@
                 "open_issues": 288,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10206,
+                "stars": 10208,
                 "topics": [
                   "csharp",
                   "lua",
@@ -18724,7 +18724,7 @@
                 "open_issues": 6,
                 "owner": "sparklinlabs",
                 "repo": "superpowers-asset-packs",
-                "stars": 1278,
+                "stars": 1277,
                 "topics": [
                   "assets",
                   "cc0",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19978,
+                "stars": 19983,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19045,7 +19045,7 @@
                 "open_issues": 5,
                 "owner": "QianMo",
                 "repo": "Unity-Design-Pattern",
-                "stars": 4694,
+                "stars": 4695,
                 "topics": [
                   "bridge-pattern",
                   "command-pattern",
@@ -19087,7 +19087,7 @@
                 "open_issues": 14,
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
-                "stars": 2910,
+                "stars": 2909,
                 "topics": [
                   "c-sharp",
                   "pcg",
@@ -19115,7 +19115,7 @@
                 "open_issues": 11,
                 "owner": "PokemonUnity",
                 "repo": "PokemonUnity",
-                "stars": 2035,
+                "stars": 2036,
                 "topics": [
                   "legacy",
                   "pokemon",
@@ -19183,7 +19183,7 @@
                 "open_issues": 4,
                 "owner": "BayatGames",
                 "repo": "RedRunner",
-                "stars": 926,
+                "stars": 925,
                 "topics": [
                   "fantasy",
                   "free",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:17:53.967Z",
+    "last_updated": "2026-10-24T08:49:50.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
@@ -19796,7 +19796,7 @@
       "open_issues": 17,
       "owner": "baba-s",
       "repo": "awesome-unity-open-source-on-github",
-      "stars": 4480,
+      "stars": 4481,
       "topics": [
         "awesome-list",
         "unity",
