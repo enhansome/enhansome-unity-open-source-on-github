@@ -3238,7 +3238,7 @@
                 "open_issues": 6,
                 "owner": "andydbc",
                 "repo": "unity-frosted-glass",
-                "stars": 909,
+                "stars": 910,
                 "topics": [
                   "effect",
                   "material",
@@ -4784,8 +4784,8 @@
                 "id": 72002331,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-05-22T10:41:24Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-26T06:33:14Z",
+                "open_issues": 28,
                 "owner": "andrumak",
                 "repo": "MyBox",
                 "stars": 2196,
@@ -5382,7 +5382,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-16T16:24:58Z",
-                "open_issues": 132,
+                "open_issues": 133,
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
                 "stars": 5228,
@@ -5630,7 +5630,7 @@
                 "open_issues": 7,
                 "owner": "smkplus",
                 "repo": "CustomToolbar",
-                "stars": 686,
+                "stars": 685,
                 "topics": [
                   "unity"
                 ]
@@ -7589,10 +7589,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-04-19T18:34:16Z",
-                "open_issues": 91,
+                "open_issues": 93,
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4575,
+                "stars": 4574,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7613,7 +7613,7 @@
                 "open_issues": 9,
                 "owner": "marijnz",
                 "repo": "unity-toolbar-extender",
-                "stars": 1949,
+                "stars": 1948,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7662,7 +7662,7 @@
                 "open_issues": 8,
                 "owner": "mob-sakai",
                 "repo": "UpmGitExtension",
-                "stars": 813,
+                "stars": 812,
                 "topics": [
                   "bitbucket",
                   "editor",
@@ -8392,7 +8392,7 @@
                 "open_issues": 11,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7696,
+                "stars": 7697,
                 "topics": [
                   "blur",
                   "burn",
@@ -9593,7 +9593,7 @@
                 "open_issues": 10,
                 "owner": "yasirkula",
                 "repo": "UnityIngameDebugConsole",
-                "stars": 2747,
+                "stars": 2749,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9611,7 +9611,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-30T07:55:11Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "yasirkula",
                 "repo": "UnityRuntimeInspector",
                 "stars": 2177,
@@ -9822,7 +9822,7 @@
                 "open_issues": 11,
                 "owner": "setchi",
                 "repo": "FancyScrollView",
-                "stars": 3534,
+                "stars": 3533,
                 "topics": [
                   "csharp",
                   "infinite-scroll",
@@ -9854,7 +9854,7 @@
                 "open_issues": 2,
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2778,
+                "stars": 2780,
                 "topics": [
                   "ugui",
                   "unity3d"
@@ -11442,7 +11442,7 @@
                 "open_issues": 9,
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4867,
+                "stars": 4868,
                 "topics": [
                   "procjam",
                   "unity",
@@ -12363,7 +12363,7 @@
                 "open_issues": 0,
                 "owner": "Bian-Sh",
                 "repo": "UniJoystick",
-                "stars": 363,
+                "stars": 362,
                 "topics": [
                   "canvas",
                   "joystick",
@@ -12679,7 +12679,7 @@
                 "open_issues": 26,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11266,
+                "stars": 11267,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -12752,10 +12752,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2023-05-22T06:40:22Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "TouchScript",
                 "repo": "TouchScript",
-                "stars": 1703,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12933,7 +12933,7 @@
                 "open_issues": 0,
                 "owner": "yasirkula",
                 "repo": "UnityBezierSolution",
-                "stars": 1482,
+                "stars": 1483,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -13142,7 +13142,7 @@
                 "open_issues": 34,
                 "owner": "kou-yeung",
                 "repo": "WebGLInput",
-                "stars": 965,
+                "stars": 966,
                 "topics": [
                   "ime",
                   "unity",
@@ -13199,7 +13199,7 @@
                 "open_issues": 101,
                 "owner": "gkngkc",
                 "repo": "UnityStandaloneFileBrowser",
-                "stars": 2457,
+                "stars": 2458,
                 "topics": [
                   "file-browser",
                   "file-chooser",
@@ -13359,7 +13359,7 @@
                 "open_issues": 16,
                 "owner": "Meragon",
                 "repo": "Unity-WinForms",
-                "stars": 548,
+                "stars": 547,
                 "topics": [
                   "gui",
                   "unity",
@@ -13427,7 +13427,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-16T19:37:16Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "bazyleu",
                 "repo": "UniState",
                 "stars": 251,
@@ -15187,7 +15187,7 @@
                 "open_issues": 2,
                 "owner": "sebas77",
                 "repo": "Svelto.ECS",
-                "stars": 1366,
+                "stars": 1365,
                 "topics": [
                   "csharp",
                   "data-oriented",
@@ -15821,7 +15821,7 @@
                 "open_issues": 13,
                 "owner": "mjholtzem",
                 "repo": "Unity-2D-Destruction",
-                "stars": 669,
+                "stars": 670,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -15989,7 +15989,7 @@
                 "open_issues": 0,
                 "owner": "wlgys8",
                 "repo": "Sprites-Outline",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18425,7 +18425,7 @@
                 "open_issues": 181,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15588,
+                "stars": 15589,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 156,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9552,
+                "stars": 9559,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18475,7 +18475,7 @@
                 "open_issues": 217,
                 "owner": "SeriousCache",
                 "repo": "UABE",
-                "stars": 4130,
+                "stars": 4129,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18645,10 +18645,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2025-11-21T07:14:15Z",
-                "open_issues": 288,
+                "open_issues": 290,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10208,
+                "stars": 10211,
                 "topics": [
                   "csharp",
                   "lua",
@@ -19045,7 +19045,7 @@
                 "open_issues": 5,
                 "owner": "QianMo",
                 "repo": "Unity-Design-Pattern",
-                "stars": 4694,
+                "stars": 4695,
                 "topics": [
                   "bridge-pattern",
                   "command-pattern",
@@ -19162,7 +19162,7 @@
                 "open_issues": 2,
                 "owner": "Unity-Technologies",
                 "repo": "2d-techdemos",
-                "stars": 1016,
+                "stars": 1017,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:06:12.363Z",
+    "last_updated": "2026-10-26T10:01:53.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
