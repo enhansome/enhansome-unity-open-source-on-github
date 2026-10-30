@@ -228,7 +228,7 @@
                 "open_issues": 10,
                 "owner": "jean-moreno",
                 "repo": "EdgeDetect-PostProcessingUnity",
-                "stars": 300,
+                "stars": 299,
                 "topics": [
                   "unity"
                 ]
@@ -303,7 +303,7 @@
                 "open_issues": 7,
                 "owner": "iBicha",
                 "repo": "ImageEffectGraph",
-                "stars": 173,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -436,27 +436,6 @@
             },
             {
               "node_type": "item",
-              "title": "FastPostProcessing",
-              "description": "A small and fast post processing stack (only one pass) targeting mobile and mobile VR",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A small and fast post processing stack (only one pass) targeting mobile and mobile VR for Unity",
-                "homepage": null,
-                "id": 166761494,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2019-01-23T09:12:45Z",
-                "open_issues": 0,
-                "owner": "demonixis",
-                "repo": "FastPostProcessing",
-                "stars": 71,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:34:34.732Z"
-            },
-            {
-              "node_type": "item",
               "title": "Retro-Image-Effects",
               "description": "A collection of image effects",
               "children": [],
@@ -508,6 +487,27 @@
                   "processing",
                   "unity"
                 ]
+              },
+              "first_seen": "2026-08-28T16:34:34.732Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FastPostProcessing",
+              "description": "A small and fast post processing stack (only one pass) targeting mobile and mobile VR",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "A small and fast post processing stack (only one pass) targeting mobile and mobile VR for Unity",
+                "homepage": null,
+                "id": 166761494,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2019-01-23T09:12:45Z",
+                "open_issues": 0,
+                "owner": "demonixis",
+                "repo": "FastPostProcessing",
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
             },
@@ -636,7 +636,7 @@
                 "open_issues": 0,
                 "owner": "travislindenreid",
                 "repo": "ColorSpread",
-                "stars": 41,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -1384,7 +1384,7 @@
                 "open_issues": 82,
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3935,
+                "stars": 3936,
                 "topics": [
                   "displacement-texture",
                   "ocean",
@@ -1441,7 +1441,7 @@
                 "open_issues": 2,
                 "owner": "dbrizov",
                 "repo": "Unity-WaterBuoyancy",
-                "stars": 965,
+                "stars": 967,
                 "topics": [
                   "buoyancy",
                   "simulation",
@@ -3149,7 +3149,7 @@
                 "open_issues": 33,
                 "owner": "smkplus",
                 "repo": "ShaderMan",
-                "stars": 1503,
+                "stars": 1504,
                 "topics": [
                   "glsl",
                   "shaders",
@@ -6446,7 +6446,7 @@
                 "id": 138596093,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-28T17:04:43Z",
+                "last_commit": "2026-10-30T03:24:59Z",
                 "open_issues": 0,
                 "owner": "Yu5h1",
                 "repo": "UnityExtension",
@@ -7613,7 +7613,7 @@
                 "open_issues": 9,
                 "owner": "marijnz",
                 "repo": "unity-toolbar-extender",
-                "stars": 1947,
+                "stars": 1948,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -8392,7 +8392,7 @@
                 "open_issues": 11,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7700,
+                "stars": 7702,
                 "topics": [
                   "blur",
                   "burn",
@@ -8550,7 +8550,7 @@
                 "open_issues": 21,
                 "owner": "kirevdokimov",
                 "repo": "Unity-UI-Rounded-Corners",
-                "stars": 1757,
+                "stars": 1762,
                 "topics": [
                   "c-sharp",
                   "cg",
@@ -8942,7 +8942,7 @@
                 "open_issues": 43,
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 6035,
+                "stars": 6037,
                 "topics": [
                   "component",
                   "effects",
@@ -9662,7 +9662,7 @@
                 "open_issues": 0,
                 "owner": "taphos",
                 "repo": "unity-uitest",
-                "stars": 199,
+                "stars": 198,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -11211,7 +11211,7 @@
                 "open_issues": 20,
                 "owner": "keenanwoodall",
                 "repo": "Deform",
-                "stars": 3703,
+                "stars": 3702,
                 "topics": [
                   "animation",
                   "deformers",
@@ -12026,7 +12026,7 @@
                 "open_issues": 63,
                 "owner": "Tencent",
                 "repo": "GAutomator",
-                "stars": 1381,
+                "stars": 1383,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12676,10 +12676,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-06T11:15:15Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11275,
+                "stars": 11277,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -13174,7 +13174,7 @@
                 "open_issues": 10,
                 "owner": "github-for-unity",
                 "repo": "Unity",
-                "stars": 3223,
+                "stars": 3221,
                 "topics": [
                   "git",
                   "github",
@@ -13256,7 +13256,7 @@
                 "open_issues": 14,
                 "owner": "thefuntastic",
                 "repo": "Unity3d-Finite-State-Machine",
-                "stars": 1689,
+                "stars": 1688,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -13322,7 +13322,7 @@
                 "open_issues": 1,
                 "owner": "BayatGames",
                 "repo": "SaveGameFree",
-                "stars": 671,
+                "stars": 672,
                 "topics": [
                   "binary-serialization",
                   "game-data",
@@ -13359,7 +13359,7 @@
                 "open_issues": 16,
                 "owner": "Meragon",
                 "repo": "Unity-WinForms",
-                "stars": 548,
+                "stars": 547,
                 "topics": [
                   "gui",
                   "unity",
@@ -15770,7 +15770,7 @@
                 "open_issues": 1,
                 "owner": "elringus",
                 "repo": "sprite-dicing",
-                "stars": 1542,
+                "stars": 1543,
                 "topics": [
                   "atlas",
                   "cli",
@@ -17146,7 +17146,7 @@
                 "open_issues": 0,
                 "owner": "dgkanatsios",
                 "repo": "AngryBirdsStyleGame",
-                "stars": 679,
+                "stars": 680,
                 "topics": [
                   "game",
                   "unity"
@@ -17247,7 +17247,7 @@
                 "open_issues": 3,
                 "owner": "kwanchangnim",
                 "repo": "Jello-Physics",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -17268,7 +17268,7 @@
                 "open_issues": 1,
                 "owner": "mattatz",
                 "repo": "unity-verlet-simulator",
-                "stars": 292,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -17489,7 +17489,7 @@
                 "open_issues": 31,
                 "owner": "pnarimani",
                 "repo": "RTLTMPro",
-                "stars": 727,
+                "stars": 726,
                 "topics": [
                   "arabic",
                   "persian",
@@ -18296,7 +18296,7 @@
                 "open_issues": 0,
                 "owner": "geekdrums",
                 "repo": "MusicEngine",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18425,7 +18425,7 @@
                 "open_issues": 181,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15590,
+                "stars": 15589,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 156,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9582,
+                "stars": 9583,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18648,7 +18648,7 @@
                 "open_issues": 290,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10216,
+                "stars": 10217,
                 "topics": [
                   "csharp",
                   "lua",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 20000,
+                "stars": 20002,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19115,7 +19115,7 @@
                 "open_issues": 11,
                 "owner": "PokemonUnity",
                 "repo": "PokemonUnity",
-                "stars": 2037,
+                "stars": 2038,
                 "topics": [
                   "legacy",
                   "pokemon",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:50:56.745Z",
+    "last_updated": "2026-10-30T10:49:34.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
@@ -19796,7 +19796,7 @@
       "open_issues": 17,
       "owner": "baba-s",
       "repo": "awesome-unity-open-source-on-github",
-      "stars": 4478,
+      "stars": 4477,
       "topics": [
         "awesome-list",
         "unity",
