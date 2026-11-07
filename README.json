@@ -89,7 +89,7 @@
                 "open_issues": 10,
                 "owner": "cubedparadox",
                 "repo": "Cubeds-Unity-Shaders",
-                "stars": 321,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -1248,7 +1248,7 @@
                 "open_issues": 5,
                 "owner": "michaelcurtiss",
                 "repo": "UnityOutlineFX",
-                "stars": 61,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -1384,7 +1384,7 @@
                 "open_issues": 82,
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3940,
+                "stars": 3941,
                 "topics": [
                   "displacement-texture",
                   "ocean",
@@ -3175,7 +3175,7 @@
                 "open_issues": 9,
                 "owner": "ronja-tutorials",
                 "repo": "ShaderTutorials",
-                "stars": 1067,
+                "stars": 1068,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -5385,7 +5385,7 @@
                 "open_issues": 133,
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
-                "stars": 5231,
+                "stars": 5233,
                 "topics": [
                   "attributes",
                   "extension",
@@ -7592,7 +7592,7 @@
                 "open_issues": 89,
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4575,
+                "stars": 4574,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -8392,7 +8392,7 @@
                 "open_issues": 11,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7717,
+                "stars": 7718,
                 "topics": [
                   "blur",
                   "burn",
@@ -8606,7 +8606,7 @@
                 "open_issues": 2,
                 "owner": "mob-sakai",
                 "repo": "ShinyEffectForUGUI",
-                "stars": 457,
+                "stars": 456,
                 "topics": [
                   "effect",
                   "shader",
@@ -8942,7 +8942,7 @@
                 "open_issues": 43,
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 6043,
+                "stars": 6042,
                 "topics": [
                   "component",
                   "effects",
@@ -8968,7 +8968,7 @@
                 "id": 147537593,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-07-17T14:39:20Z",
+                "last_commit": "2026-11-07T09:07:51Z",
                 "open_issues": 7,
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
@@ -9589,8 +9589,8 @@
                 "id": 61235116,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-06T07:51:45Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-07T10:55:55Z",
+                "open_issues": 10,
                 "owner": "yasirkula",
                 "repo": "UnityIngameDebugConsole",
                 "stars": 2753,
@@ -9995,7 +9995,7 @@
                 "open_issues": 14,
                 "owner": "mob-sakai",
                 "repo": "SoftMaskForUGUI",
-                "stars": 2845,
+                "stars": 2844,
                 "topics": [
                   "components",
                   "mask",
@@ -11211,7 +11211,7 @@
                 "open_issues": 20,
                 "owner": "keenanwoodall",
                 "repo": "Deform",
-                "stars": 3703,
+                "stars": 3704,
                 "topics": [
                   "animation",
                   "deformers",
@@ -11442,7 +11442,7 @@
                 "open_issues": 9,
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4872,
+                "stars": 4875,
                 "topics": [
                   "procjam",
                   "unity",
@@ -11914,7 +11914,7 @@
                 "open_issues": 17,
                 "owner": "prime31",
                 "repo": "CharacterController2D",
-                "stars": 1112,
+                "stars": 1113,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -14558,7 +14558,7 @@
                 "open_issues": 20,
                 "owner": "kmbang",
                 "repo": "UnityNativeEdit",
-                "stars": 92,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -15162,7 +15162,7 @@
                 "open_issues": 1,
                 "owner": "keijiro",
                 "repo": "Voxelman",
-                "stars": 1982,
+                "stars": 1983,
                 "topics": [
                   "ecs",
                   "unity",
@@ -16251,7 +16251,7 @@
                 "language": "C#",
                 "license": null,
                 "last_commit": "2022-02-20T23:43:29Z",
-                "open_issues": 17,
+                "open_issues": 16,
                 "owner": "handcircus",
                 "repo": "Unity-Resource-Checker",
                 "stars": 1042,
@@ -16960,7 +16960,7 @@
                 "open_issues": 0,
                 "owner": "EMBYRDEV",
                 "repo": "Pixel-Perfect-Retro-Camera",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18425,7 +18425,7 @@
                 "open_issues": 181,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15589,
+                "stars": 15585,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 156,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9608,
+                "stars": 9609,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18475,7 +18475,7 @@
                 "open_issues": 217,
                 "owner": "SeriousCache",
                 "repo": "UABE",
-                "stars": 4127,
+                "stars": 4126,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18648,7 +18648,7 @@
                 "open_issues": 290,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10226,
+                "stars": 10225,
                 "topics": [
                   "csharp",
                   "lua",
@@ -18958,7 +18958,7 @@
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 964,
+                "stars": 965,
                 "topics": [
                   "ai",
                   "crowd-simulation",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 20025,
+                "stars": 20026,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:00:02.694Z",
+    "last_updated": "2026-11-07T10:59:32.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
@@ -19796,7 +19796,7 @@
       "open_issues": 17,
       "owner": "baba-s",
       "repo": "awesome-unity-open-source-on-github",
-      "stars": 4478,
+      "stars": 4476,
       "topics": [
         "awesome-list",
         "unity",
