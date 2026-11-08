@@ -3643,7 +3643,7 @@
                 "open_issues": 5,
                 "owner": "Nrjwolf",
                 "repo": "unity-shader-sprite-radial-fill",
-                "stars": 195,
+                "stars": 196,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 28,
                 "owner": "andrumak",
                 "repo": "MyBox",
-                "stars": 2196,
+                "stars": 2197,
                 "topics": [
                   "csharp",
                   "game-development",
@@ -5724,7 +5724,7 @@
                 "open_issues": 0,
                 "owner": "AsehesL",
                 "repo": "USubWindow",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -8972,7 +8972,7 @@
                 "open_issues": 7,
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
-                "stars": 3802,
+                "stars": 3801,
                 "topics": [
                   "chart",
                   "charting",
@@ -10912,7 +10912,7 @@
                 "open_issues": 8,
                 "owner": "prime31",
                 "repo": "GoKit",
-                "stars": 590,
+                "stars": 589,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12679,7 +12679,7 @@
                 "open_issues": 30,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11290,
+                "stars": 11291,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -14388,7 +14388,7 @@
                 "open_issues": 30,
                 "owner": "yasirkula",
                 "repo": "UnityNativeCamera",
-                "stars": 719,
+                "stars": 720,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -14409,7 +14409,7 @@
                 "open_issues": 30,
                 "owner": "yasirkula",
                 "repo": "UnityNativeCamera",
-                "stars": 719,
+                "stars": 720,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -15187,7 +15187,7 @@
                 "open_issues": 2,
                 "owner": "sebas77",
                 "repo": "Svelto.ECS",
-                "stars": 1365,
+                "stars": 1366,
                 "topics": [
                   "csharp",
                   "data-oriented",
@@ -15498,7 +15498,7 @@
                 "open_issues": 1,
                 "owner": "Omniaffix-Dave",
                 "repo": "Unity-2D-Pathfinding-Grid-ECS-Job",
-                "stars": 124,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18101,7 +18101,7 @@
                 "open_issues": 1,
                 "owner": "Robert-K",
                 "repo": "gpu-particles",
-                "stars": 752,
+                "stars": 753,
                 "topics": [
                   "compute-shaders",
                   "gpgpu",
@@ -18425,7 +18425,7 @@
                 "open_issues": 181,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15585,
+                "stars": 15583,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 156,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9609,
+                "stars": 9618,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18648,7 +18648,7 @@
                 "open_issues": 290,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10225,
+                "stars": 10226,
                 "topics": [
                   "csharp",
                   "lua",
@@ -18724,7 +18724,7 @@
                 "open_issues": 6,
                 "owner": "sparklinlabs",
                 "repo": "superpowers-asset-packs",
-                "stars": 1277,
+                "stars": 1278,
                 "topics": [
                   "assets",
                   "cc0",
@@ -18958,7 +18958,7 @@
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 965,
+                "stars": 966,
                 "topics": [
                   "ai",
                   "crowd-simulation",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 20026,
+                "stars": 20029,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19115,7 +19115,7 @@
                 "open_issues": 11,
                 "owner": "PokemonUnity",
                 "repo": "PokemonUnity",
-                "stars": 2042,
+                "stars": 2043,
                 "topics": [
                   "legacy",
                   "pokemon",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:59:32.122Z",
+    "last_updated": "2026-11-08T11:13:47.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
@@ -19796,7 +19796,7 @@
       "open_issues": 17,
       "owner": "baba-s",
       "repo": "awesome-unity-open-source-on-github",
-      "stars": 4476,
+      "stars": 4477,
       "topics": [
         "awesome-list",
         "unity",
