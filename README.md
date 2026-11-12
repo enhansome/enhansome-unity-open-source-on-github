@@ -145,7 +145,7 @@ A categorized collection of awesome Unity open source on GitHub.
 * [AsciiArtFx](https://github.com/keijiro/AsciiArtFx) ⭐ 119 | 🐛 0 | 🌐 C | 📅 2014-12-03 ![GitHub last commit](https://img.shields.io/github/last-commit/keijiro/AsciiArtFx?logoSize=auto) - ASCII art image effect
 * [KinoFringe](https://github.com/keijiro/KinoFringe) ⭐ 105 | 🐛 0 | 🌐 C# | 📅 2015-08-20 ![GitHub last commit](https://img.shields.io/github/last-commit/keijiro/KinoFringe?logoSize=auto) - Chromatic aberration image effect
 * [Heatwave](https://github.com/andrewgotow/Heatwave) ⭐ 102 | 🐛 1 | 🌐 ShaderLab | 📅 2018-01-23 ![GitHub last commit](https://img.shields.io/github/last-commit/andrewgotow/Heatwave?logoSize=auto) - A simple post-processing effect for the Unity game engine which renders small-scale distortions
-* [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects) ⭐ 80 | 🐛 0 | 🌐 ShaderLab | 📅 2017-12-19 ![GitHub last commit](https://img.shields.io/github/last-commit/hiroakioishi/UnityImageEffects?logoSize=auto) - Post Processing Effects
+* [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects) ⭐ 81 | 🐛 0 | 🌐 ShaderLab | 📅 2017-12-19 ![GitHub last commit](https://img.shields.io/github/last-commit/hiroakioishi/UnityImageEffects?logoSize=auto) - Post Processing Effects
 * [Retro-Image-Effects](https://github.com/danielshervheim/Retro-Image-Effects) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/danielshervheim/Retro-Image-Effects?logoSize=auto) - A collection of image effects
 * [Image-Effects-for-Unity](https://github.com/danielshervheim/Image-Effects-for-Unity) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/danielshervheim/Image-Effects-for-Unity?logoSize=auto) - A collection of image effects
 * [FastPostProcessing](https://github.com/demonixis/FastPostProcessing) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/demonixis/FastPostProcessing) - A small and fast post processing stack (only one pass) targeting mobile and mobile VR
@@ -203,7 +203,7 @@ A categorized collection of awesome Unity open source on GitHub.
 * [water2d-unity](https://github.com/valryon/water2d-unity) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/valryon/water2d-unity?logoSize=auto) - A simple shader   example of a water surface with reflection in 2D
 * [water-demo](https://github.com/shanecelis/water-demo) ⭐ 335 | 🐛 0 | 🌐 ShaderLab | 📅 2019-06-06 ![GitHub last commit](https://img.shields.io/github/last-commit/shanecelis/water-demo?logoSize=auto) - A port of Evan Wallace's "Water Demo" for WebGL to Unity
 * [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean) ⭐ 292 | 🐛 0 | 🌐 C# | 📅 2022-01-30 ![GitHub last commit](https://img.shields.io/github/last-commit/Scrawk/Phillips-Ocean?logoSize=auto) - A ocean using Phillips spectrum in Unity
-* [UnityWaterSurface](https://github.com/hecomi/UnityWaterSurface) ⭐ 261 | 🐛 2 | 🌐 ShaderLab | 📅 2020-09-10 ![GitHub last commit](https://img.shields.io/github/last-commit/hecomi/UnityWaterSurface?logoSize=auto) - Water Surface Simulation using CutomRenderTexture
+* [UnityWaterSurface](https://github.com/hecomi/UnityWaterSurface) ⭐ 260 | 🐛 2 | 🌐 ShaderLab | 📅 2020-09-10 ![GitHub last commit](https://img.shields.io/github/last-commit/hecomi/UnityWaterSurface?logoSize=auto) - Water Surface Simulation using CutomRenderTexture
 * [WaterColorFilter](https://github.com/nobnak/WaterColorFilter) ⭐ 143 | 🐛 0 | 🌐 C# | 📅 2024-08-14 ![GitHub last commit](https://img.shields.io/github/last-commit/nobnak/WaterColorFilter?logoSize=auto) - Water Color Filter
 * [unity-water-shader2d](https://github.com/real-marco-b/unity-water-shader2d) ⭐ 104 | 🐛 2 | 🌐 C# | 📅 2018-10-03 ![GitHub last commit](https://img.shields.io/github/last-commit/real-marco-b/unity-water-shader2d?logoSize=auto) - A 2D water shader
 
@@ -218,7 +218,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Blur
 
 * [Super-Blur](https://github.com/PavelDoGreat/Super-Blur) ⭐ 1,075 | 🐛 14 | 🌐 HLSL | 📅 2020-03-12 ![GitHub last commit](https://img.shields.io/github/last-commit/PavelDoGreat/Super-Blur?logoSize=auto) - Screen and UI gaussian blur
-* [UnityFluid2DBlurImageEffect](https://github.com/hiroakioishi/UnityFluid2DBlurImageEffect) ⭐ 60 | 🐛 0 | 🌐 C# | 📅 2017-12-19 ![GitHub last commit](https://img.shields.io/github/last-commit/hiroakioishi/UnityFluid2DBlurImageEffect?logoSize=auto) - Fluid2D Blur Post Processing Effect
+* [UnityFluid2DBlurImageEffect](https://github.com/hiroakioishi/UnityFluid2DBlurImageEffect) ⭐ 61 | 🐛 0 | 🌐 C# | 📅 2017-12-19 ![GitHub last commit](https://img.shields.io/github/last-commit/hiroakioishi/UnityFluid2DBlurImageEffect?logoSize=auto) - Fluid2D Blur Post Processing Effect
 * [Unity3D-Blur](https://github.com/remibodin/Unity3D-Blur) ⭐ 56 | 🐛 0 | 🌐 ShaderLab | 📅 2017-05-14 ![GitHub last commit](https://img.shields.io/github/last-commit/remibodin/Unity3D-Blur?logoSize=auto) - Gaussian and kawase blur
 * [SmokeBlur](https://github.com/nobnak/SmokeBlur) ⭐ 48 | 🐛 0 | 🌐 C# | 📅 2016-03-09 ![GitHub last commit](https://img.shields.io/github/last-commit/nobnak/SmokeBlur?logoSize=auto) - Smoke Blur
 
@@ -327,7 +327,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## Other Shaders
 
-* [ShaderMan](https://github.com/smkplus/ShaderMan) ⭐ 1,502 | 🐛 33 | 🌐 GLSL | 📅 2021-02-07 ![GitHub last commit](https://img.shields.io/github/last-commit/smkplus/ShaderMan?logoSize=auto) - Convert ShaderToy to Unity  HLSL/CG
+* [ShaderMan](https://github.com/smkplus/ShaderMan) ⭐ 1,503 | 🐛 33 | 🌐 GLSL | 📅 2021-02-07 ![GitHub last commit](https://img.shields.io/github/last-commit/smkplus/ShaderMan?logoSize=auto) - Convert ShaderToy to Unity  HLSL/CG
 * [ShaderTutorials](https://github.com/ronja-tutorials/ShaderTutorials) ⭐ 1,068 | 🐛 9 | 🌐 ShaderLab | 📅 2021-06-30 ![GitHub last commit](https://img.shields.io/github/last-commit/ronja-tutorials/ShaderTutorials?logoSize=auto) - unity shader tutorials
 * [ToonShading](https://github.com/Kink3d/ToonShading) ⭐ 1,015 | 🐛 8 | 🌐 C# | 📅 2024-11-28 ![GitHub last commit](https://img.shields.io/github/last-commit/Kink3d/ToonShading?logoSize=auto) - A collection of "Toon" shaders for Unity based on a stepped PBR approximation
 * [KinoFog](https://github.com/keijiro/KinoFog) ⭐ 976 | 🐛 6 | 🌐 C# | 📅 2015-07-02 ![GitHub last commit](https://img.shields.io/github/last-commit/keijiro/KinoFog?logoSize=auto) - Global fog effect
@@ -416,7 +416,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Inspector
 
 * [MyBox](https://github.com/Deadcows/MyBox) ⭐ 2,197 | 🐛 28 | 🌐 C# | 📅 2026-10-26 ![GitHub last commit](https://img.shields.io/github/last-commit/Deadcows/MyBox?logoSize=auto) - MyBox is a set of attributes, tools and extensions
-* [guid-based-reference](https://github.com/Unity-Technologies/guid-based-reference) ⭐ 665 | 🐛 14 | 🌐 C# | 📅 2022-07-02 ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/guid-based-reference?logoSize=auto) - Giving Game Objects a GUID and a class to create references to objects in any Scene by GUID
+* [guid-based-reference](https://github.com/Unity-Technologies/guid-based-reference) ⭐ 666 | 🐛 14 | 🌐 C# | 📅 2022-07-02 ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/guid-based-reference?logoSize=auto) - Giving Game Objects a GUID and a class to create references to objects in any Scene by GUID
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) ⭐ 645 | 🐛 7 | 🌐 C# | 📅 2021-01-06 ![GitHub last commit](https://img.shields.io/github/last-commit/cfoulston/Unity-Reorderable-List?logoSize=auto) - Extended version of the Reorderable List
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) ⭐ 645 | 🐛 7 | 🌐 C# | 📅 2021-01-06 ![GitHub last commit](https://img.shields.io/github/last-commit/cfoulston/Unity-Reorderable-List?logoSize=auto) - Extended version of the Reorderable List
 * [UnityEditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) ⭐ 635 | 🐛 4 | 🌐 C# | 📅 2022-02-11 ![GitHub last commit](https://img.shields.io/github/last-commit/roboryantron/UnityEditorJunkie?logoSize=auto) - Editor scripts to make working with the Unity Editor better
@@ -487,7 +487,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Asset
 
 * [unity-aseprite-importer](https://github.com/martinhodler/unity-aseprite-importer) ⭐ 324 | 🐛 20 | 🌐 C# | 📅 2024-03-03 ![GitHub last commit](https://img.shields.io/github/last-commit/martinhodler/unity-aseprite-importer) - Importer for Aseprite files (.ase, .aseprite)
-* [AssetAuditor](https://github.com/MarkUnity/AssetAuditor) ⭐ 147 | 🐛 0 | 🌐 C# | 📅 2018-06-18 ![GitHub last commit](https://img.shields.io/github/last-commit/MarkUnity/AssetAuditor?logoSize=auto) - Tools to control the asset import settings
+* [AssetAuditor](https://github.com/MarkUnity/AssetAuditor) ⭐ 146 | 🐛 0 | 🌐 C# | 📅 2018-06-18 ![GitHub last commit](https://img.shields.io/github/last-commit/MarkUnity/AssetAuditor?logoSize=auto) - Tools to control the asset import settings
 * [SubAssetDragAndDrop](https://github.com/Maligan/unity-subassets-drag-and-drop) ⭐ 38 | 🐛 0 | 🌐 C# | 📅 2020-09-07 ![GitHub last commit](https://img.shields.io/github/last-commit/Maligan/unity-subassets-drag-and-drop?logoSize=auto) - Allows add/remove subasset with simple Drag\&Drop operation
 * [AutoSaveScene](https://github.com/liortal53/AutoSaveScene) ⭐ 28 | 🐛 3 | 🌐 C# | 📅 2026-07-03 ![GitHub last commit](https://img.shields.io/github/last-commit/liortal53/AutoSaveScene?logoSize=auto) - Auto saving scene & minimizing lost work
 * [Assets2Packages](https://github.com/kakunpc/Assets2Packages) ⭐ 26 | 🐛 0 | 🌐 C# | 📅 2019-01-11 ![GitHub last commit](https://img.shields.io/github/last-commit/kakunpc/Assets2Packages?logoSize=auto) - Assets to Packages
@@ -514,7 +514,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## Object
 
-* [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) ⭐ 594 | 🐛 24 | 🌐 C# | 📅 2026-09-05 ![GitHub last commit](https://img.shields.io/github/last-commit/redbluegames/unity-mulligan-renamer?logoSize=auto) - Allows for quick and safe renaming of many assets and gameobjects at once
+* [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) ⭐ 595 | 🐛 24 | 🌐 C# | 📅 2026-09-05 ![GitHub last commit](https://img.shields.io/github/last-commit/redbluegames/unity-mulligan-renamer?logoSize=auto) - Allows for quick and safe renaming of many assets and gameobjects at once
 * [unity\_duplicate\_special](https://github.com/marcin-se/unity_duplicate_special) ⭐ 27 | 🐛 0 | 🌐 C# | 📅 2016-10-25 ![GitHub last commit](https://img.shields.io/github/last-commit/marcin-se/unity_duplicate_special?logoSize=auto) - Duplicates objects in a fashion similar to Blender's Array Modifier
 * [EasyScriptTester](https://github.com/rngtm/EasyScriptTester) ⭐ 24 | 🐛 0 | 🌐 C# | 📅 2016-11-14 ![GitHub last commit](https://img.shields.io/github/last-commit/rngtm/EasyScriptTester?logoSize=auto) - Easy Script Tester
 * [create-empty-at-zero-position](https://github.com/tomori-hikage/create-empty-at-zero-position) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2024-10-28 ![GitHub last commit](https://img.shields.io/github/last-commit/tomori-hikage/create-empty-at-zero-position?logoSize=auto) - Create empty at zero position
@@ -599,10 +599,10 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## Editor Utility
 
-* [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) ⭐ 4,577 | 🐛 89 | 🌐 C# | 📅 2026-10-31 ![GitHub last commit](https://img.shields.io/github/last-commit/GlitchEnzo/NuGetForUnity?logoSize=auto) - A NuGet Package Manager
+* [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) ⭐ 4,576 | 🐛 89 | 🌐 C# | 📅 2026-10-31 ![GitHub last commit](https://img.shields.io/github/last-commit/GlitchEnzo/NuGetForUnity?logoSize=auto) - A NuGet Package Manager
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) ⭐ 1,948 | 🐛 9 | 🌐 C# | 📅 2026-10-27 ![GitHub last commit](https://img.shields.io/github/last-commit/marijnz/unity-toolbar-extender?logoSize=auto) - Extend the Unity Toolbar with your own Editor UI code
-* [SuperUnityBuild](https://github.com/superunitybuild/buildtool) ⭐ 1,344 | 🐛 21 | 🌐 C# | 📅 2025-01-07 ![GitHub last commit](https://img.shields.io/github/last-commit/superunitybuild/buildtool?logoSize=auto) - A powerful automation tool for quickly and easily generating builds with Unity
-* [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) ⭐ 812 | 🐛 8 | 🌐 C# | 📅 2025-10-15 ![GitHub last commit](https://img.shields.io/github/last-commit/mob-sakai/UpmGitExtension?logoSize=auto) - Git extension for Unity Package Manager
+* [SuperUnityBuild](https://github.com/superunitybuild/buildtool) ⭐ 1,345 | 🐛 21 | 🌐 C# | 📅 2025-01-07 ![GitHub last commit](https://img.shields.io/github/last-commit/superunitybuild/buildtool?logoSize=auto) - A powerful automation tool for quickly and easily generating builds with Unity
+* [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) ⭐ 813 | 🐛 8 | 🌐 C# | 📅 2025-10-15 ![GitHub last commit](https://img.shields.io/github/last-commit/mob-sakai/UpmGitExtension?logoSize=auto) - Git extension for Unity Package Manager
 * [demilib](https://github.com/Demigiant/demilib) ⭐ 765 | 🐛 5 | 🌐 C# | 📅 2026-08-02 ![GitHub last commit](https://img.shields.io/github/last-commit/Demigiant/demilib?logoSize=auto) - A library of various utilities and tools
 * [PerfAssist](https://github.com/GameBuildingBlocks/PerfAssist) ⭐ 476 | 🐛 4 | 🌐 C# | 📅 2019-06-14 ![GitHub last commit](https://img.shields.io/github/last-commit/GameBuildingBlocks/PerfAssist?logoSize=auto) - Various performance-related components
 * [Unity-Animation-Hierarchy-Editor](https://github.com/s-m-k/Unity-Animation-Hierarchy-Editor) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/s-m-k/Unity-Animation-Hierarchy-Editor?logoSize=auto) - This utility will help you refactor your Unity animations
@@ -641,7 +641,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## Shader Collection
 
-* [UIEffect](https://github.com/mob-sakai/UIEffect) ⭐ 7,724 | 🐛 12 | 🌐 C# | 📅 2026-11-06 ![GitHub last commit](https://img.shields.io/github/last-commit/mob-sakai/UIEffect?logoSize=auto) - An effect component for uGUI element
+* [UIEffect](https://github.com/mob-sakai/UIEffect) ⭐ 7,727 | 🐛 12 | 🌐 C# | 📅 2026-11-06 ![GitHub last commit](https://img.shields.io/github/last-commit/mob-sakai/UIEffect?logoSize=auto) - An effect component for uGUI element
 * [UIAndShader](https://github.com/blueberryzzz/UIAndShader) ⭐ 312 | 🐛 0 | 🌐 C# | 📅 2018-10-26 ![GitHub last commit](https://img.shields.io/github/last-commit/blueberryzzz/UIAndShader?logoSize=auto) - Some Unity UI components and shaders
 * [EffectShader](https://github.com/inoook/EffectShader) ⭐ 57 | 🐛 0 | 🌐 GLSL | 📅 2015-08-16 ![GitHub last commit](https://img.shields.io/github/last-commit/inoook/EffectShader?logoSize=auto) - Effect collection
 * [unity-ugui-posteffect](https://github.com/butter-cookies/unity-ugui-posteffect) ⭐ 52 | 🐛 0 | 🌐 ShaderLab | 📅 2018-06-14 ![GitHub last commit](https://img.shields.io/github/last-commit/butter-cookies/unity-ugui-posteffect?logoSize=auto) - UI posteffect shader repository
@@ -670,7 +670,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## UI Utility
 
 * [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) ⭐ 6,047 | 🐛 44 | 🌐 C# | 📅 2026-11-06 ![GitHub last commit](https://img.shields.io/github/last-commit/mob-sakai/ParticleEffectForUGUI?logoSize=auto) - Provide a component to render particle effect for uGUI
-* [unity-ugui-XCharts](https://github.com/monitor1394/unity-ugui-XCharts) ⭐ 3,803 | 🐛 7 | 🌐 C# | 📅 2026-11-07 ![GitHub last commit](https://img.shields.io/github/last-commit/monitor1394/unity-ugui-XCharts?logoSize=auto) - A charting and data visualization library
+* [unity-ugui-XCharts](https://github.com/monitor1394/unity-ugui-XCharts) ⭐ 3,806 | 🐛 2 | 🌐 C# | 📅 2026-11-12 ![GitHub last commit](https://img.shields.io/github/last-commit/monitor1394/unity-ugui-XCharts?logoSize=auto) - A charting and data visualization library
 * [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) ⭐ 1,040 | 🐛 5 | 🌐 C# | 📅 2018-11-16 ![GitHub last commit](https://img.shields.io/github/last-commit/AdultLink/RadialProgressBar?logoSize=auto) - Customizable radial progress bar shader
 * [UnitySimpleFileBrowser](https://github.com/yasirkula/UnitySimpleFileBrowser) ⭐ 1,006 | 🐛 7 | 🌐 C# | 📅 2026-09-24 ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnitySimpleFileBrowser?logoSize=auto) - Runtime file browser
 * [UnityCodes](https://github.com/ll4080333/UnityCodes) ⭐ 909 | 🐛 1 | 🌐 C# | 📅 2019-01-09 ![GitHub last commit](https://img.shields.io/github/last-commit/ll4080333/UnityCodes?logoSize=auto) - UI Components
@@ -707,7 +707,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## UI Debug
 
 * [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole) ⭐ 2,754 | 🐛 10 | 🌐 C# | 📅 2026-11-07 ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityIngameDebugConsole?logoSize=auto) - A uGUI based console to see debug messages and execute commands
-* [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector) ⭐ 2,179 | 🐛 9 | 🌐 C# | 📅 2026-11-09 ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityRuntimeInspector?logoSize=auto) - Runtime Inspector and Hierarchy solution for debugging and runtime editing purposes
+* [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector) ⭐ 2,180 | 🐛 9 | 🌐 C# | 📅 2026-11-09 ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityRuntimeInspector?logoSize=auto) - Runtime Inspector and Hierarchy solution for debugging and runtime editing purposes
 * [consolation](https://github.com/mminer/consolation) ⭐ 894 | 🐛 1 | 🌐 C# | 📅 2025-06-11 ![GitHub last commit](https://img.shields.io/github/last-commit/mminer/consolation?logoSize=auto) - In-game debug console
 * [unity-uitest](https://github.com/taphos/unity-uitest) ⭐ 198 | 🐛 0 | 🌐 C# | 📅 2017-12-01 ![GitHub last commit](https://img.shields.io/github/last-commit/taphos/unity-uitest?logoSize=auto) - UI Test Automation Framework
 * [collider-visualizer](https://github.com/tomoriaki/collider-visualizer) ⭐ 87 | 🐛 0 | 🌐 C# | 📅 2024-10-29 ![GitHub last commit](https://img.shields.io/github/last-commit/tomoriaki/collider-visualizer?logoSize=auto) - Collider visualizer
@@ -884,7 +884,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Asset Bundle
 
 * [xasset](https://github.com/fengjiyuan/xasset) ⭐ 2,698 | 🐛 2 | 🌐 C# | 📅 2024-06-18 ![GitHub last commit](https://img.shields.io/github/last-commit/fengjiyuan/xasset?logoSize=auto) - Asset bundle manager
-* [UnityPack](https://github.com/HearthSim/UnityPack) ⭐ 755 | 🐛 48 | 🌐 Python | 📅 2022-01-06 ![GitHub last commit](https://img.shields.io/github/last-commit/HearthSim/UnityPack?logoSize=auto) - Python deserialization library for Asset format
+* [UnityPack](https://github.com/HearthSim/UnityPack) ⭐ 756 | 🐛 48 | 🌐 Python | 📅 2022-01-06 ![GitHub last commit](https://img.shields.io/github/last-commit/HearthSim/UnityPack?logoSize=auto) - Python deserialization library for Asset format
 * [Autoya](https://github.com/sassembla/Autoya) ⭐ 230 | 🐛 11 | 🌐 C# | 📅 2024-08-29 ![GitHub last commit](https://img.shields.io/github/last-commit/sassembla/Autoya?logoSize=auto) - thin framework
 * [Unity-MultiProcess-BuildPipeline](https://github.com/jiangzhhhh/Unity-MultiProcess-BuildPipeline) ⭐ 169 | 🐛 4 | 🌐 C# | 📅 2019-01-28 ![GitHub last commit](https://img.shields.io/github/last-commit/jiangzhhhh/Unity-MultiProcess-BuildPipeline?logoSize=auto) - multiprocess buildpipeline
 
@@ -922,13 +922,13 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## Async / Await
 
-* [UniTask](https://github.com/Cysharp/UniTask) ⭐ 11,300 | 🐛 30 | 🌐 C# | 📅 2026-10-06 ![GitHub last commit](https://img.shields.io/github/last-commit/Cysharp/UniTask?logoSize=auto) - Provides an efficient async/await integration
+* [UniTask](https://github.com/Cysharp/UniTask) ⭐ 11,301 | 🐛 30 | 🌐 C# | 📅 2026-10-06 ![GitHub last commit](https://img.shields.io/github/last-commit/Cysharp/UniTask?logoSize=auto) - Provides an efficient async/await integration
 * [Unity3dAsyncAwaitUtil](https://github.com/svermeulen/Unity3dAsyncAwaitUtil) ⭐ 218 | 🐛 0 | 🌐 C# | 📅 2019-02-27 ![GitHub last commit](https://img.shields.io/github/last-commit/svermeulen/Unity3dAsyncAwaitUtil?logoSize=auto) - A bunch of code to make using async-await easier
 * [Asyncoroutine](https://github.com/zsaladin/Asyncoroutine) ⭐ 135 | 🐛 2 | 🌐 C# | 📅 2021-09-09 ![GitHub last commit](https://img.shields.io/github/last-commit/zsaladin/Asyncoroutine?logoSize=auto) - Asyncoroutine is a unity asset that allows you to use Coroutine and async/await together
 
 ## Touch
 
-* [TouchScript](https://github.com/TouchScript/TouchScript) ⭐ 1,701 | 🐛 84 | 🌐 C# | 📅 2023-05-22 ![GitHub last commit](https://img.shields.io/github/last-commit/TouchScript/TouchScript?logoSize=auto) - iOS, Android, Windows, TUIO
+* [TouchScript](https://github.com/TouchScript/TouchScript) ⭐ 1,700 | 🐛 84 | 🌐 C# | 📅 2023-05-22 ![GitHub last commit](https://img.shields.io/github/last-commit/TouchScript/TouchScript?logoSize=auto) - iOS, Android, Windows, TUIO
 * [TouchKit](https://github.com/prime31/TouchKit) ⭐ 914 | 🐛 15 | 🌐 C# | 📅 2019-04-27 ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/TouchKit?logoSize=auto) - Gestures and input handling made sane
 * [GodTouch](https://github.com/okamura0510/GodTouch) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2020-07-23 ![GitHub last commit](https://img.shields.io/github/last-commit/okamura0510/GodTouch?logoSize=auto) - Touch system
 
@@ -949,7 +949,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 * [UnityAnimatorEvents](https://github.com/forestrf/UnityAnimatorEvents) ⭐ 217 | 🐛 2 | 🌐 C# | 📅 2021-01-11 ![GitHub last commit](https://img.shields.io/github/last-commit/forestrf/UnityAnimatorEvents?logoSize=auto) - UnityEvents triggered by states inside an Animator
 * [Unity3D-ExtendedEvent](https://github.com/Thundernerd/Unity3D-ExtendedEvent) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/Thundernerd/Unity3D-ExtendedEvent?logoSize=auto) - A UnityEvent replacement
-* [Unity-MecanimEventSystem](https://github.com/Bian-Sh/Unity-MecanimEventSystem) ⭐ 106 | 🐛 0 | 🌐 C# | 📅 2023-10-20 ![GitHub last commit](https://img.shields.io/github/last-commit/Bian-Sh/Unity-MecanimEventSystem?logoSize=auto) - Chain programming style callback System for Animator
+* [Unity-MecanimEventSystem](https://github.com/Bian-Sh/Unity-MecanimEventSystem) ⭐ 107 | 🐛 0 | 🌐 C# | 📅 2023-10-20 ![GitHub last commit](https://img.shields.io/github/last-commit/Bian-Sh/Unity-MecanimEventSystem?logoSize=auto) - Chain programming style callback System for Animator
 * [OnDestroyCallback.cs](https://gist.github.com/PopupAsylumUK/43c53390cf2cd6351657de2ed7ee8f90) - OnDestroy event
 
 ## Object Pooling
@@ -1097,7 +1097,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Sprite
 
 * [SpriteGlow](https://github.com/Elringus/SpriteGlow) ⭐ 2,421 | 🐛 0 | 🌐 ShaderLab | 📅 2025-10-15 ![GitHub last commit](https://img.shields.io/github/last-commit/Elringus/SpriteGlow?logoSize=auto) - A sprite glow effect
-* [SpriteDicing](https://github.com/Elringus/SpriteDicing) ⭐ 1,542 | 🐛 1 | 🌐 Rust | 📅 2026-09-11 ![GitHub last commit](https://img.shields.io/github/last-commit/Elringus/SpriteDicing?logoSize=auto) - Unity extension for reusing sprite texture areas
+* [SpriteDicing](https://github.com/Elringus/SpriteDicing) ⭐ 1,543 | 🐛 1 | 🌐 Rust | 📅 2026-09-11 ![GitHub last commit](https://img.shields.io/github/last-commit/Elringus/SpriteDicing?logoSize=auto) - Unity extension for reusing sprite texture areas
 * [UnitySpriteShaders](https://github.com/traggett/UnitySpriteShaders) ⭐ 808 | 🐛 14 | 🌐 HLSL | 📅 2020-12-07 ![GitHub last commit](https://img.shields.io/github/last-commit/traggett/UnitySpriteShaders?logoSize=auto) - An Uber Shader for rendering Sprites
 * [Unity-2D-Destruction](https://github.com/mjholtzem/Unity-2D-Destruction) ⭐ 669 | 🐛 13 | 🌐 C# | 📅 2018-10-03 ![GitHub last commit](https://img.shields.io/github/last-commit/mjholtzem/Unity-2D-Destruction?logoSize=auto) - Breaking 2D sprites into fragments for awesome destruction effects
 * [SpriteLightKit](https://github.com/prime31/SpriteLightKit) ⭐ 243 | 🐛 6 | 🌐 C# | 📅 2018-09-17 ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/SpriteLightKit?logoSize=auto) - Blended lighting system for Unity that works with standard Sprites
@@ -1110,20 +1110,20 @@ A categorized collection of awesome Unity open source on GitHub.
 * [Sprites-Outline](https://github.com/wlgys8/Sprites-Outline) ⭐ 91 | 🐛 0 | 🌐 ShaderLab | 📅 2018-03-17 ![GitHub last commit](https://img.shields.io/github/last-commit/wlgys8/Sprites-Outline?logoSize=auto) - Outline effect
 * [unity-sprite-cutter](https://github.com/sabikku/unity-sprite-cutter) ⭐ 85 | 🐛 3 | 🌐 C# | 📅 2019-08-29 ![GitHub last commit](https://img.shields.io/github/last-commit/sabikku/unity-sprite-cutter?logoSize=auto) - Simple solution for cutting sprites in runtime
 * [PixelArtGen](https://github.com/abagames/PixelArtGen) ⭐ 83 | 🐛 0 | 🌐 C# | 📅 2016-01-05 ![GitHub last commit](https://img.shields.io/github/last-commit/abagames/PixelArtGen?logoSize=auto) - A pixel art generator on a Unity custom inspector
-* [unity-2d-water](https://github.com/Brajanowski/unity-2d-water) ⭐ 80 | 🐛 0 | 🌐 C# | 📅 2017-11-19 ![GitHub last commit](https://img.shields.io/github/last-commit/Brajanowski/unity-2d-water?logoSize=auto) - Simple water in Unity for 2D platform games
+* [unity-2d-water](https://github.com/Brajanowski/unity-2d-water) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/Brajanowski/unity-2d-water?logoSize=auto) - Simple water in Unity for 2D platform games
 * [FogSprites](https://github.com/bricevdm/FogSprites) ⭐ 70 | 🐛 0 | 🌐 ShaderLab | 📅 2017-08-07 ![GitHub last commit](https://img.shields.io/github/last-commit/bricevdm/FogSprites?logoSize=auto) - Modification of Unity's sprite shaders supporting Fog
 * [NextGenSprites](https://github.com/rubit0/NextGenSprites) ⭐ 31 | 🐛 0 | 🌐 ShaderLab | 📅 2018-05-05 ![GitHub last commit](https://img.shields.io/github/last-commit/rubit0/NextGenSprites?logoSize=auto) - Some sweet sprite shaders
 * [SpriteOutline](https://github.com/MaxWeiChen/SpriteOutline) ⭐ 23 | 🐛 0 | 🌐 ShaderLab | 📅 2019-06-01 ![GitHub last commit](https://img.shields.io/github/last-commit/MaxWeiChen/SpriteOutline?logoSize=auto) - SpriteOutline shader
 * [SpriteRecolourUnity](https://github.com/sinbad/SpriteRecolourUnity) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/sinbad/SpriteRecolourUnity?logoSize=auto) - Demo project for spriterecolour
 * [UnitySpriteFlash](https://github.com/ilhamhe/UnitySpriteFlash) ⭐ 15 | 🐛 0 | 🌐 ShaderLab | 📅 2019-07-22 ![GitHub last commit](https://img.shields.io/github/last-commit/ilhamhe/UnitySpriteFlash?logoSize=auto) - Example project to show flash effect on Unity sprite
 * [ShapeRenderer](https://github.com/epezent/ShapeRenderer) ⭐ 13 | 🐛 0 | 🌐 C# | 📅 2017-10-03 ![GitHub last commit](https://img.shields.io/github/last-commit/epezent/ShapeRenderer?logoSize=auto) - Shape renderer
-* [SpriteShaderSample](https://github.com/mike-neko/SpriteShaderSample) ⭐ 12 | 🐛 1 | 🌐 GLSL | 📅 2026-01-30 ![GitHub last commit](https://img.shields.io/github/last-commit/mike-neko/SpriteShaderSample?logoSize=auto) - Sprite shader sample
+* [SpriteShaderSample](https://github.com/mike-neko/SpriteShaderSample) ⭐ 12 | 🐛 1 | 🌐 GLSL | 📅 2026-11-11 ![GitHub last commit](https://img.shields.io/github/last-commit/mike-neko/SpriteShaderSample?logoSize=auto) - Sprite shader sample
 * [Sprites-PixelArt.shader](https://gist.github.com/talecrafter/81e2f3bb7fb4b4fc367e7b851772b646) - Pixel art shader
 * [Sprites-OutlineMeter.shader](https://gist.github.com/o8que/7306c4505ffcacda0e50f529c7d4d064) - Outline shader
 
 ## Static Code Analysis
 
-* [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector) ⭐ 2,061 | 🐛 0 | 🌐 C# | 📅 2026-10-17 ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityAssetUsageDetector) - Find usages of the selected asset(s) and/or Object(s)
+* [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector) ⭐ 2,062 | 🐛 0 | 🌐 C# | 📅 2026-10-17 ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityAssetUsageDetector) - Find usages of the selected asset(s) and/or Object(s)
 * [Unity-Resource-Checker](https://github.com/handcircus/Unity-Resource-Checker) ⭐ 1,042 | 🐛 16 | 🌐 C# | 📅 2022-02-20 ![GitHub last commit](https://img.shields.io/github/last-commit/handcircus/Unity-Resource-Checker?logoSize=auto) - Editor utility for unity to help check resources in the current scene
 * [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer) ⭐ 601 | 🐛 5 | 🌐 C# | 📅 2021-09-23 ![GitHub last commit](https://img.shields.io/github/last-commit/MephestoKhaan/UnityEventVisualizer?logoSize=auto) - A graph editor for viewing all UnityEvents at a glance
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) ⭐ 284 | 🐛 10 | 🌐 C# | 📅 2019-10-22 ![GitHub last commit](https://img.shields.io/github/last-commit/vad710/UnityEngineAnalyzer?logoSize=auto) - Roslyn Analyzer
@@ -1204,7 +1204,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## Optimization
 
-* [graphy](https://github.com/Tayx94/graphy) ⭐ 2,919 | 🐛 14 | 🌐 C# | 📅 2026-08-29 ![GitHub last commit](https://img.shields.io/github/last-commit/Tayx94/graphy?logoSize=auto) - Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger
+* [graphy](https://github.com/Tayx94/graphy) ⭐ 2,922 | 🐛 14 | 🌐 C# | 📅 2026-08-29 ![GitHub last commit](https://img.shields.io/github/last-commit/Tayx94/graphy?logoSize=auto) - Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) ⭐ 383 | 🐛 12 | 🌐 C# | 📅 2021-06-18 ![GitHub last commit](https://img.shields.io/github/last-commit/aschearer/unitysizeexplorer?logoSize=auto) - Visualize how much space each asset in your Unity game
 * [Relay](https://github.com/SixWays/Relay) ⭐ 265 | 🐛 0 | 🌐 C# | 📅 2019-05-17 ![GitHub last commit](https://img.shields.io/github/last-commit/SixWays/Relay?logoSize=auto) - Fast, powerful, GC-friendly C# signals/events
 * [ProjectAuditor](https://github.com/mtrive/ProjectAuditor) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/mtrive/ProjectAuditor?logoSize=auto) - An experimental static analysis tool
@@ -1239,7 +1239,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Reverse Engineering
 
 * [AssetStudio](https://github.com/Perfare/AssetStudio) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/Perfare/AssetStudio?logoSize=auto) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles
-* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) ⭐ 9,636 | 🐛 156 | 🌐 C# | 📅 2024-08-18 ![GitHub last commit](https://img.shields.io/github/last-commit/Perfare/Il2CppDumper?logoSize=auto) - Get types, methods, fields, etc. from Unity Il2Cpp binary file
+* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) ⭐ 9,643 | 🐛 156 | 🌐 C# | 📅 2024-08-18 ![GitHub last commit](https://img.shields.io/github/last-commit/Perfare/Il2CppDumper?logoSize=auto) - Get types, methods, fields, etc. from Unity Il2Cpp binary file
 * [UABE](https://github.com/DerPopo/UABE) ⚠️ Archived ![GitHub last commit](https://img.shields.io/github/last-commit/DerPopo/UABE?logoSize=auto) - Unity Assets Bundle Extractor
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) ⭐ 3,109 | 🐛 892 | 🌐 C# | 📅 2022-01-14 ![GitHub last commit](https://img.shields.io/github/last-commit/mafaca/UtinyRipper?logoSize=auto) - Tool for ripping assets from Engine resource files
 
@@ -1285,10 +1285,10 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## Sample Project
 
-* [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 20,037 | 🐛 18 | 🌐 C++ | 📅 2023-06-25 ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners?logoSize=auto) - how to implement SSAO, depth of field, lighting, normal mapping, and more
-* [Unity-Design-Pattern](https://github.com/QianMo/Unity-Design-Pattern) ⭐ 4,690 | 🐛 5 | 🌐 C# | 📅 2020-02-06 ![GitHub last commit](https://img.shields.io/github/last-commit/QianMo/Unity-Design-Pattern?logoSize=auto) - All Gang of Four Design Patterns written in Unity C# with many examples
+* [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 20,040 | 🐛 18 | 🌐 C++ | 📅 2023-06-25 ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners?logoSize=auto) - how to implement SSAO, depth of field, lighting, normal mapping, and more
+* [Unity-Design-Pattern](https://github.com/QianMo/Unity-Design-Pattern) ⭐ 4,691 | 🐛 5 | 🌐 C# | 📅 2020-02-06 ![GitHub last commit](https://img.shields.io/github/last-commit/QianMo/Unity-Design-Pattern?logoSize=auto) - All Gang of Four Design Patterns written in Unity C# with many examples
 * [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) ⭐ 2,915 | 🐛 14 | 🌐 C# | 📅 2024-04-04 ![GitHub last commit](https://img.shields.io/github/last-commit/Syomus/ProceduralToolkit?logoSize=auto) - Procedural generation library
-* [PokemonUnity](https://github.com/PokemonUnity/PokemonUnity) ⭐ 2,043 | 🐛 11 | 🌐 C# | 📅 2026-01-23 ![GitHub last commit](https://img.shields.io/github/last-commit/PokemonUnity/PokemonUnity?logoSize=auto) - A framework to build Pokemon RPG games
+* [PokemonUnity](https://github.com/PokemonUnity/PokemonUnity) ⭐ 2,044 | 🐛 11 | 🌐 C# | 📅 2026-01-23 ![GitHub last commit](https://img.shields.io/github/last-commit/PokemonUnity/PokemonUnity?logoSize=auto) - A framework to build Pokemon RPG games
 * [unity-design-patterns](https://github.com/Naphier/unity-design-patterns) ⭐ 1,194 | 🐛 3 | 🌐 C# | 📅 2025-05-24 ![GitHub last commit](https://img.shields.io/github/last-commit/Naphier/unity-design-patterns?logoSize=auto) - Examples of programming design patterns
 * [2d-techdemos](https://github.com/Unity-Technologies/2d-techdemos) ⭐ 1,019 | 🐛 2 | 🌐 C# | 📅 2026-03-13 ![GitHub last commit](https://img.shields.io/github/last-commit/Unity-Technologies/2d-techdemos?logoSize=auto) - Tech Demos for Unity 2D Features
 * [RedRunner](https://github.com/BayatGames/RedRunner) ⭐ 928 | 🐛 4 | 🌐 C# | 📅 2026-01-29 ![GitHub last commit](https://img.shields.io/github/last-commit/BayatGames/RedRunner?logoSize=auto) - Red Runner, Awesome Platformer Game
@@ -1319,4 +1319,4 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
