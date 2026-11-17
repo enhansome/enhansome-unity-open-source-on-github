@@ -1164,7 +1164,7 @@
                 "open_issues": 9,
                 "owner": "IronWarrior",
                 "repo": "UnityOutlineShader",
-                "stars": 941,
+                "stars": 942,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -1185,7 +1185,7 @@
                 "open_issues": 32,
                 "owner": "chrisnolet",
                 "repo": "QuickOutline",
-                "stars": 702,
+                "stars": 703,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -1380,11 +1380,11 @@
                 "id": 98410578,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-06-18T06:36:17Z",
+                "last_commit": "2026-11-17T05:11:31Z",
                 "open_issues": 82,
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3945,
+                "stars": 3946,
                 "topics": [
                   "displacement-texture",
                   "ocean",
@@ -1467,7 +1467,7 @@
                 "open_issues": 2,
                 "owner": "IronWarrior",
                 "repo": "ToonWaterShader",
-                "stars": 827,
+                "stars": 828,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -1606,7 +1606,7 @@
                 "open_issues": 0,
                 "owner": "nobnak",
                 "repo": "WaterColorFilter",
-                "stars": 143,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -1991,7 +1991,7 @@
                 "open_issues": 7,
                 "owner": "UnityTechnologies",
                 "repo": "ShaderGraph_ExampleLibrary",
-                "stars": 1926,
+                "stars": 1927,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -2233,7 +2233,7 @@
                 "open_issues": 3,
                 "owner": "andydbc",
                 "repo": "HologramShader",
-                "stars": 991,
+                "stars": 992,
                 "topics": [
                   "effect",
                   "graphics",
@@ -2412,7 +2412,7 @@
                 "open_issues": 6,
                 "owner": "IronWarrior",
                 "repo": "UnityGrassGeometryShader",
-                "stars": 856,
+                "stars": 857,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -2806,7 +2806,7 @@
                 "open_issues": 0,
                 "owner": "bodhid",
                 "repo": "UnityDitheredShadows",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -3300,7 +3300,7 @@
                 "open_issues": 3,
                 "owner": "yangrc1234",
                 "repo": "VolumeCloud",
-                "stars": 670,
+                "stars": 671,
                 "topics": [
                   "cloud",
                   "shader",
@@ -3850,7 +3850,7 @@
                 "open_issues": 0,
                 "owner": "Shealynntate",
                 "repo": "Pixel-Burn-Effect",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -6446,7 +6446,7 @@
                 "id": 138596093,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-16T12:09:38Z",
+                "last_commit": "2026-11-16T18:53:14Z",
                 "open_issues": 0,
                 "owner": "Yu5h1",
                 "repo": "UnityExtension",
@@ -7613,7 +7613,7 @@
                 "open_issues": 9,
                 "owner": "marijnz",
                 "repo": "unity-toolbar-extender",
-                "stars": 1948,
+                "stars": 1949,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -8388,11 +8388,11 @@
                 "id": 83315270,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-16T09:22:35Z",
+                "last_commit": "2026-11-17T07:52:05Z",
                 "open_issues": 9,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7730,
+                "stars": 7731,
                 "topics": [
                   "blur",
                   "burn",
@@ -8942,7 +8942,7 @@
                 "open_issues": 44,
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 6051,
+                "stars": 6055,
                 "topics": [
                   "component",
                   "effects",
@@ -8972,7 +8972,7 @@
                 "open_issues": 2,
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
-                "stars": 3805,
+                "stars": 3803,
                 "topics": [
                   "chart",
                   "charting",
@@ -9054,7 +9054,7 @@
                 "open_issues": 1,
                 "owner": "spr1ngd",
                 "repo": "UnityCodes",
-                "stars": 909,
+                "stars": 910,
                 "topics": [
                   "ugui",
                   "unity",
@@ -9593,7 +9593,7 @@
                 "open_issues": 11,
                 "owner": "yasirkula",
                 "repo": "UnityIngameDebugConsole",
-                "stars": 2753,
+                "stars": 2755,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9854,7 +9854,7 @@
                 "open_issues": 3,
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2785,
+                "stars": 2786,
                 "topics": [
                   "ugui",
                   "unity3d"
@@ -9991,7 +9991,7 @@
                 "id": 158311266,
                 "language": "ShaderLab",
                 "license": "MIT",
-                "last_commit": "2026-11-06T05:06:40Z",
+                "last_commit": "2026-11-17T07:51:50Z",
                 "open_issues": 13,
                 "owner": "mob-sakai",
                 "repo": "SoftMaskForUGUI",
@@ -12676,10 +12676,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-06T11:15:15Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11307,
+                "stars": 11311,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -12755,7 +12755,7 @@
                 "open_issues": 84,
                 "owner": "TouchScript",
                 "repo": "TouchScript",
-                "stars": 1700,
+                "stars": 1699,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -13322,7 +13322,7 @@
                 "open_issues": 1,
                 "owner": "BayatGames",
                 "repo": "SaveGameFree",
-                "stars": 672,
+                "stars": 673,
                 "topics": [
                   "binary-serialization",
                   "game-data",
@@ -13764,7 +13764,7 @@
                 "open_issues": 4,
                 "owner": "miguel12345",
                 "repo": "UnityWebglResponsiveTemplate",
-                "stars": 97,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -16733,7 +16733,7 @@
                 "open_issues": 4,
                 "owner": "MaxwellGengYF",
                 "repo": "Unity-Volumetric-Light",
-                "stars": 477,
+                "stars": 478,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -17834,7 +17834,7 @@
                 "open_issues": 14,
                 "owner": "Tayx94",
                 "repo": "graphy",
-                "stars": 2920,
+                "stars": 2921,
                 "topics": [
                   "fps-counter",
                   "stats-for-nerds",
@@ -18425,7 +18425,7 @@
                 "open_issues": 181,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15588,
+                "stars": 15589,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 157,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9665,
+                "stars": 9670,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18541,7 +18541,7 @@
                 "open_issues": 55,
                 "owner": "arcadia-unity",
                 "repo": "Arcadia",
-                "stars": 1687,
+                "stars": 1688,
                 "topics": [
                   "clojure",
                   "game-development",
@@ -18675,7 +18675,7 @@
                 "open_issues": 38,
                 "owner": "pangweiwei",
                 "repo": "slua",
-                "stars": 1420,
+                "stars": 1421,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18778,7 +18778,7 @@
                 "open_issues": 23,
                 "owner": "kimsama",
                 "repo": "Unity-QuickSheet",
-                "stars": 1079,
+                "stars": 1080,
                 "topics": [
                   "excel",
                   "spreadsheet",
@@ -18958,7 +18958,7 @@
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 967,
+                "stars": 969,
                 "topics": [
                   "ai",
                   "crowd-simulation",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 20049,
+                "stars": 20054,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19045,7 +19045,7 @@
                 "open_issues": 5,
                 "owner": "QianMo",
                 "repo": "Unity-Design-Pattern",
-                "stars": 4693,
+                "stars": 4694,
                 "topics": [
                   "bridge-pattern",
                   "command-pattern",
@@ -19183,7 +19183,7 @@
                 "open_issues": 3,
                 "owner": "BayatGames",
                 "repo": "RedRunner",
-                "stars": 929,
+                "stars": 930,
                 "topics": [
                   "fantasy",
                   "free",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T12:39:07.307Z",
+    "last_updated": "2026-11-17T13:12:27.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
