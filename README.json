@@ -1384,7 +1384,7 @@
                 "open_issues": 82,
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3946,
+                "stars": 3950,
                 "topics": [
                   "displacement-texture",
                   "ocean",
@@ -1660,7 +1660,7 @@
                 "open_issues": 3,
                 "owner": "danielzeller",
                 "repo": "Lowpoly-Water-Unity",
-                "stars": 510,
+                "stars": 511,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -4817,7 +4817,7 @@
                 "open_issues": 14,
                 "owner": "Unity-Technologies",
                 "repo": "guid-based-reference",
-                "stars": 666,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -5385,7 +5385,7 @@
                 "open_issues": 133,
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
-                "stars": 5235,
+                "stars": 5234,
                 "topics": [
                   "attributes",
                   "extension",
@@ -7592,7 +7592,7 @@
                 "open_issues": 89,
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4576,
+                "stars": 4578,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -8389,7 +8389,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-17T23:14:09Z",
-                "open_issues": 9,
+                "open_issues": 7,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
                 "stars": 7732,
@@ -8550,7 +8550,7 @@
                 "open_issues": 22,
                 "owner": "kirevdokimov",
                 "repo": "Unity-UI-Rounded-Corners",
-                "stars": 1761,
+                "stars": 1762,
                 "topics": [
                   "c-sharp",
                   "cg",
@@ -9593,7 +9593,7 @@
                 "open_issues": 11,
                 "owner": "yasirkula",
                 "repo": "UnityIngameDebugConsole",
-                "stars": 2757,
+                "stars": 2756,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9614,7 +9614,7 @@
                 "open_issues": 9,
                 "owner": "yasirkula",
                 "repo": "UnityRuntimeInspector",
-                "stars": 2181,
+                "stars": 2180,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9991,8 +9991,8 @@
                 "id": 158311266,
                 "language": "ShaderLab",
                 "license": "MIT",
-                "last_commit": "2026-11-17T23:14:18Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-19T07:21:44Z",
+                "open_issues": 6,
                 "owner": "mob-sakai",
                 "repo": "SoftMaskForUGUI",
                 "stars": 2847,
@@ -10886,7 +10886,7 @@
                 "open_issues": 0,
                 "owner": "jeffreylanters",
                 "repo": "unity-tweens",
-                "stars": 697,
+                "stars": 696,
                 "topics": [
                   "animation",
                   "easing",
@@ -11211,7 +11211,7 @@
                 "open_issues": 20,
                 "owner": "keenanwoodall",
                 "repo": "Deform",
-                "stars": 3706,
+                "stars": 3705,
                 "topics": [
                   "animation",
                   "deformers",
@@ -11261,7 +11261,7 @@
                 "open_issues": 7,
                 "owner": "ElasticSea",
                 "repo": "unity-fracture",
-                "stars": 1332,
+                "stars": 1331,
                 "topics": [
                   "blast",
                   "fracture",
@@ -12026,7 +12026,7 @@
                 "open_issues": 63,
                 "owner": "Tencent",
                 "repo": "GAutomator",
-                "stars": 1385,
+                "stars": 1384,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12679,7 +12679,7 @@
                 "open_issues": 32,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11314,
+                "stars": 11316,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -13174,7 +13174,7 @@
                 "open_issues": 10,
                 "owner": "github-for-unity",
                 "repo": "Unity",
-                "stars": 3222,
+                "stars": 3223,
                 "topics": [
                   "git",
                   "github",
@@ -13322,7 +13322,7 @@
                 "open_issues": 1,
                 "owner": "BayatGames",
                 "repo": "SaveGameFree",
-                "stars": 673,
+                "stars": 672,
                 "topics": [
                   "binary-serialization",
                   "game-data",
@@ -15187,7 +15187,7 @@
                 "open_issues": 2,
                 "owner": "sebas77",
                 "repo": "Svelto.ECS",
-                "stars": 1367,
+                "stars": 1366,
                 "topics": [
                   "csharp",
                   "data-oriented",
@@ -18425,7 +18425,7 @@
                 "open_issues": 181,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15590,
+                "stars": 15589,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 158,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9675,
+                "stars": 9679,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 20056,
+                "stars": 20060,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19087,7 +19087,7 @@
                 "open_issues": 14,
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
-                "stars": 2917,
+                "stars": 2918,
                 "topics": [
                   "c-sharp",
                   "pcg",
@@ -19162,7 +19162,7 @@
                 "open_issues": 2,
                 "owner": "Unity-Technologies",
                 "repo": "2d-techdemos",
-                "stars": 1019,
+                "stars": 1020,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T12:57:26.462Z",
+    "last_updated": "2026-11-19T12:54:17.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
@@ -19796,7 +19796,7 @@
       "open_issues": 18,
       "owner": "baba-s",
       "repo": "awesome-unity-open-source-on-github",
-      "stars": 4484,
+      "stars": 4486,
       "topics": [
         "awesome-list",
         "unity",
