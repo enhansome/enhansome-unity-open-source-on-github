@@ -2348,7 +2348,7 @@
                 "open_issues": 2,
                 "owner": "sandrofigo",
                 "repo": "VoxReader",
-                "stars": 92,
+                "stars": 93,
                 "topics": [
                   "magica-voxel",
                   "magicavoxel",
@@ -3462,7 +3462,7 @@
                 "open_issues": 2,
                 "owner": "gkjohnson",
                 "repo": "unity-dithered-transparency-shader",
-                "stars": 331,
+                "stars": 332,
                 "topics": [
                   "3d",
                   "amplify-shader-editor",
@@ -4492,7 +4492,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-15T12:16:06Z",
-                "open_issues": 21,
+                "open_issues": 23,
                 "owner": "WooshiiDev",
                 "repo": "HierarchyDecorator",
                 "stars": 1388,
@@ -4788,7 +4788,7 @@
                 "open_issues": 28,
                 "owner": "andrumak",
                 "repo": "MyBox",
-                "stars": 2196,
+                "stars": 2195,
                 "topics": [
                   "csharp",
                   "game-development",
@@ -5385,7 +5385,7 @@
                 "open_issues": 133,
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
-                "stars": 5234,
+                "stars": 5235,
                 "topics": [
                   "attributes",
                   "extension",
@@ -7613,7 +7613,7 @@
                 "open_issues": 9,
                 "owner": "marijnz",
                 "repo": "unity-toolbar-extender",
-                "stars": 1948,
+                "stars": 1947,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -8392,7 +8392,7 @@
                 "open_issues": 7,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7734,
+                "stars": 7733,
                 "topics": [
                   "blur",
                   "burn",
@@ -8550,7 +8550,7 @@
                 "open_issues": 22,
                 "owner": "kirevdokimov",
                 "repo": "Unity-UI-Rounded-Corners",
-                "stars": 1762,
+                "stars": 1761,
                 "topics": [
                   "c-sharp",
                   "cg",
@@ -8942,7 +8942,7 @@
                 "open_issues": 44,
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 6055,
+                "stars": 6054,
                 "topics": [
                   "component",
                   "effects",
@@ -8972,7 +8972,7 @@
                 "open_issues": 3,
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
-                "stars": 3801,
+                "stars": 3800,
                 "topics": [
                   "chart",
                   "charting",
@@ -9995,7 +9995,7 @@
                 "open_issues": 6,
                 "owner": "mob-sakai",
                 "repo": "SoftMaskForUGUI",
-                "stars": 2847,
+                "stars": 2846,
                 "topics": [
                   "components",
                   "mask",
@@ -12679,7 +12679,7 @@
                 "open_issues": 32,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11316,
+                "stars": 11315,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -14346,7 +14346,7 @@
                 "open_issues": 443,
                 "owner": "gree",
                 "repo": "unity-webview",
-                "stars": 2680,
+                "stars": 2681,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -18425,7 +18425,7 @@
                 "open_issues": 181,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15590,
+                "stars": 15591,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 158,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9684,
+                "stars": 9687,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 20059,
+                "stars": 20061,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19162,7 +19162,7 @@
                 "open_issues": 2,
                 "owner": "Unity-Technologies",
                 "repo": "2d-techdemos",
-                "stars": 1020,
+                "stars": 1021,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T12:45:57.201Z",
+    "last_updated": "2026-11-21T12:32:00.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
