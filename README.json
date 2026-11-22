@@ -2344,8 +2344,8 @@
                 "id": 207095819,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-05-13T07:24:08Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-21T21:53:42Z",
+                "open_issues": 8,
                 "owner": "sandrofigo",
                 "repo": "VoxReader",
                 "stars": 93,
@@ -4491,8 +4491,8 @@
                 "id": 293348397,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-15T12:16:06Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-22T12:22:28Z",
+                "open_issues": 21,
                 "owner": "WooshiiDev",
                 "repo": "HierarchyDecorator",
                 "stars": 1388,
@@ -6768,7 +6768,7 @@
                 "open_issues": 7,
                 "owner": "halak",
                 "repo": "unity-editor-icons",
-                "stars": 966,
+                "stars": 965,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7662,7 +7662,7 @@
                 "open_issues": 8,
                 "owner": "mob-sakai",
                 "repo": "UpmGitExtension",
-                "stars": 813,
+                "stars": 814,
                 "topics": [
                   "bitbucket",
                   "editor",
@@ -8942,7 +8942,7 @@
                 "open_issues": 44,
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 6054,
+                "stars": 6056,
                 "topics": [
                   "component",
                   "effects",
@@ -8972,7 +8972,7 @@
                 "open_issues": 3,
                 "owner": "XCharts-Team",
                 "repo": "XCharts",
-                "stars": 3800,
+                "stars": 3801,
                 "topics": [
                   "chart",
                   "charting",
@@ -9822,7 +9822,7 @@
                 "open_issues": 11,
                 "owner": "setchi",
                 "repo": "FancyScrollView",
-                "stars": 3534,
+                "stars": 3535,
                 "topics": [
                   "csharp",
                   "infinite-scroll",
@@ -9995,7 +9995,7 @@
                 "open_issues": 6,
                 "owner": "mob-sakai",
                 "repo": "SoftMaskForUGUI",
-                "stars": 2846,
+                "stars": 2847,
                 "topics": [
                   "components",
                   "mask",
@@ -11442,7 +11442,7 @@
                 "open_issues": 9,
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4877,
+                "stars": 4878,
                 "topics": [
                   "procjam",
                   "unity",
@@ -11808,7 +11808,7 @@
                 "open_issues": 0,
                 "owner": "nubick",
                 "repo": "unity-utils",
-                "stars": 287,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -12679,7 +12679,7 @@
                 "open_issues": 32,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11315,
+                "stars": 11318,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -13199,7 +13199,7 @@
                 "open_issues": 101,
                 "owner": "gkngkc",
                 "repo": "UnityStandaloneFileBrowser",
-                "stars": 2458,
+                "stars": 2459,
                 "topics": [
                   "file-browser",
                   "file-chooser",
@@ -17834,7 +17834,7 @@
                 "open_issues": 14,
                 "owner": "Tayx94",
                 "repo": "graphy",
-                "stars": 2920,
+                "stars": 2919,
                 "topics": [
                   "fps-counter",
                   "stats-for-nerds",
@@ -18449,7 +18449,7 @@
                 "open_issues": 158,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9687,
+                "stars": 9689,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18648,7 +18648,7 @@
                 "open_issues": 290,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10232,
+                "stars": 10234,
                 "topics": [
                   "csharp",
                   "lua",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 20061,
+                "stars": 20065,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19083,11 +19083,11 @@
                 "id": 25112594,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-16T00:38:16Z",
+                "last_commit": "2026-11-22T12:23:13Z",
                 "open_issues": 14,
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
-                "stars": 2918,
+                "stars": 2919,
                 "topics": [
                   "c-sharp",
                   "pcg",
@@ -19222,7 +19222,7 @@
                 "open_issues": 4,
                 "owner": "Hyperparticle",
                 "repo": "nodulus",
-                "stars": 633,
+                "stars": 634,
                 "topics": [
                   "csharp",
                   "game",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T12:32:00.181Z",
+    "last_updated": "2026-11-22T12:29:16.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
