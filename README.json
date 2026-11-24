@@ -1384,7 +1384,7 @@
                 "open_issues": 81,
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3950,
+                "stars": 3952,
                 "topics": [
                   "displacement-texture",
                   "ocean",
@@ -1788,7 +1788,7 @@
                 "open_issues": 14,
                 "owner": "PavelDoGreat",
                 "repo": "Super-Blur",
-                "stars": 1075,
+                "stars": 1076,
                 "topics": [
                   "blur",
                   "effects",
@@ -4495,7 +4495,7 @@
                 "open_issues": 21,
                 "owner": "WooshiiDev",
                 "repo": "HierarchyDecorator",
-                "stars": 1388,
+                "stars": 1387,
                 "topics": [
                   "editor",
                   "hierarchy",
@@ -7454,7 +7454,7 @@
                 "open_issues": 73,
                 "owner": "Seanba",
                 "repo": "SuperTiled2Unity",
-                "stars": 786,
+                "stars": 787,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7592,7 +7592,7 @@
                 "open_issues": 89,
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4579,
+                "stars": 4578,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7634,7 +7634,7 @@
                 "open_issues": 21,
                 "owner": "superunitybuild",
                 "repo": "buildtool",
-                "stars": 1342,
+                "stars": 1341,
                 "topics": [
                   "automation",
                   "build-automation",
@@ -8388,8 +8388,8 @@
                 "id": 83315270,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-17T23:14:09Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-24T13:25:44Z",
+                "open_issues": 7,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
                 "stars": 7732,
@@ -8550,7 +8550,7 @@
                 "open_issues": 22,
                 "owner": "kirevdokimov",
                 "repo": "Unity-UI-Rounded-Corners",
-                "stars": 1761,
+                "stars": 1763,
                 "topics": [
                   "c-sharp",
                   "cg",
@@ -9033,7 +9033,7 @@
                 "open_issues": 7,
                 "owner": "yasirkula",
                 "repo": "UnitySimpleFileBrowser",
-                "stars": 1007,
+                "stars": 1006,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9593,7 +9593,7 @@
                 "open_issues": 10,
                 "owner": "yasirkula",
                 "repo": "UnityIngameDebugConsole",
-                "stars": 2756,
+                "stars": 2755,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9614,7 +9614,7 @@
                 "open_issues": 9,
                 "owner": "yasirkula",
                 "repo": "UnityRuntimeInspector",
-                "stars": 2180,
+                "stars": 2179,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9854,7 +9854,7 @@
                 "open_issues": 1,
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2785,
+                "stars": 2784,
                 "topics": [
                   "ugui",
                   "unity3d"
@@ -10026,7 +10026,7 @@
                 "open_issues": 1,
                 "owner": "mob-sakai",
                 "repo": "UnmaskForUGUI",
-                "stars": 998,
+                "stars": 997,
                 "topics": [
                   "component",
                   "mask",
@@ -12679,7 +12679,7 @@
                 "open_issues": 30,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11318,
+                "stars": 11320,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -13142,7 +13142,7 @@
                 "open_issues": 34,
                 "owner": "kou-yeung",
                 "repo": "WebGLInput",
-                "stars": 970,
+                "stars": 971,
                 "topics": [
                   "ime",
                   "unity",
@@ -13174,7 +13174,7 @@
                 "open_issues": 10,
                 "owner": "github-for-unity",
                 "repo": "Unity",
-                "stars": 3222,
+                "stars": 3221,
                 "topics": [
                   "git",
                   "github",
@@ -13199,7 +13199,7 @@
                 "open_issues": 101,
                 "owner": "gkngkc",
                 "repo": "UnityStandaloneFileBrowser",
-                "stars": 2460,
+                "stars": 2459,
                 "topics": [
                   "file-browser",
                   "file-chooser",
@@ -15743,7 +15743,7 @@
                 "open_issues": 0,
                 "owner": "elringus",
                 "repo": "sprite-glow",
-                "stars": 2420,
+                "stars": 2419,
                 "topics": [
                   "plugin",
                   "shader",
@@ -17146,7 +17146,7 @@
                 "open_issues": 0,
                 "owner": "dgkanatsios",
                 "repo": "AngryBirdsStyleGame",
-                "stars": 679,
+                "stars": 678,
                 "topics": [
                   "game",
                   "unity"
@@ -17834,7 +17834,7 @@
                 "open_issues": 14,
                 "owner": "Tayx94",
                 "repo": "graphy",
-                "stars": 2918,
+                "stars": 2917,
                 "topics": [
                   "fps-counter",
                   "stats-for-nerds",
@@ -18425,7 +18425,7 @@
                 "open_issues": 181,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15590,
+                "stars": 15592,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18499,7 +18499,7 @@
                 "open_issues": 892,
                 "owner": "mafaca",
                 "repo": "UtinyRipper",
-                "stars": 3107,
+                "stars": 3108,
                 "topics": [
                   "asset",
                   "assetbundle",
@@ -18648,7 +18648,7 @@
                 "open_issues": 290,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10234,
+                "stars": 10233,
                 "topics": [
                   "csharp",
                   "lua",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 20070,
+                "stars": 20071,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19045,7 +19045,7 @@
                 "open_issues": 5,
                 "owner": "QianMo",
                 "repo": "Unity-Design-Pattern",
-                "stars": 4694,
+                "stars": 4695,
                 "topics": [
                   "bridge-pattern",
                   "command-pattern",
@@ -19083,7 +19083,7 @@
                 "id": 25112594,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-23T10:23:33Z",
+                "last_commit": "2026-11-23T22:23:56Z",
                 "open_issues": 14,
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T14:28:37.839Z",
+    "last_updated": "2026-11-24T14:45:38.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
