@@ -3389,7 +3389,7 @@
                 "open_issues": 5,
                 "owner": "keijiro",
                 "repo": "KinoContour",
-                "stars": 482,
+                "stars": 483,
                 "topics": [
                   "effects",
                   "shader",
@@ -7454,7 +7454,7 @@
                 "open_issues": 73,
                 "owner": "Seanba",
                 "repo": "SuperTiled2Unity",
-                "stars": 787,
+                "stars": 788,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7592,7 +7592,7 @@
                 "open_issues": 90,
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4579,
+                "stars": 4581,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -7662,7 +7662,7 @@
                 "open_issues": 8,
                 "owner": "mob-sakai",
                 "repo": "UpmGitExtension",
-                "stars": 814,
+                "stars": 815,
                 "topics": [
                   "bitbucket",
                   "editor",
@@ -8388,11 +8388,11 @@
                 "id": 83315270,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-26T09:04:20Z",
+                "last_commit": "2026-11-26T16:52:08Z",
                 "open_issues": 5,
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7739,
+                "stars": 7743,
                 "topics": [
                   "blur",
                   "burn",
@@ -8942,7 +8942,7 @@
                 "open_issues": 44,
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 6058,
+                "stars": 6061,
                 "topics": [
                   "component",
                   "effects",
@@ -9033,7 +9033,7 @@
                 "open_issues": 7,
                 "owner": "yasirkula",
                 "repo": "UnitySimpleFileBrowser",
-                "stars": 1006,
+                "stars": 1005,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -9992,10 +9992,10 @@
                 "language": "ShaderLab",
                 "license": "MIT",
                 "last_commit": "2026-11-19T07:21:44Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "mob-sakai",
                 "repo": "SoftMaskForUGUI",
-                "stars": 2846,
+                "stars": 2847,
                 "topics": [
                   "components",
                   "mask",
@@ -10026,7 +10026,7 @@
                 "open_issues": 1,
                 "owner": "mob-sakai",
                 "repo": "UnmaskForUGUI",
-                "stars": 997,
+                "stars": 998,
                 "topics": [
                   "component",
                   "mask",
@@ -11442,7 +11442,7 @@
                 "open_issues": 9,
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4879,
+                "stars": 4881,
                 "topics": [
                   "procjam",
                   "unity",
@@ -12679,7 +12679,7 @@
                 "open_issues": 30,
                 "owner": "Cysharp",
                 "repo": "UniTask",
-                "stars": 11321,
+                "stars": 11322,
                 "topics": [
                   "coroutine",
                   "csharp",
@@ -14822,7 +14822,7 @@
                 "open_issues": 50,
                 "owner": "yasirkula",
                 "repo": "UnityNativeGallery",
-                "stars": 1622,
+                "stars": 1621,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -15280,6 +15280,31 @@
             },
             {
               "node_type": "item",
+              "title": "OSMTrafficSim",
+              "description": "TrafficSim using Unity ECS 2019.1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TrafficSim using Unity ECS 2023.1",
+                "homepage": null,
+                "id": 155580316,
+                "language": "C#",
+                "license": "GPL-3.0",
+                "last_commit": "2024-08-20T14:48:12Z",
+                "open_issues": 0,
+                "owner": "maajor",
+                "repo": "OSMTrafficSim",
+                "stars": 396,
+                "topics": [
+                  "traffic-simulation",
+                  "unity",
+                  "unity-ecs"
+                ]
+              },
+              "first_seen": "2026-08-28T16:34:34.732Z"
+            },
+            {
+              "node_type": "item",
               "title": "SpriteSheetRenderer",
               "description": "A powerful Unity ECS system to render massive numbers of animated sprites",
               "children": [],
@@ -15307,31 +15332,6 @@
             },
             {
               "node_type": "item",
-              "title": "OSMTrafficSim",
-              "description": "TrafficSim using Unity ECS 2019.1",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TrafficSim using Unity ECS 2023.1",
-                "homepage": null,
-                "id": 155580316,
-                "language": "C#",
-                "license": "GPL-3.0",
-                "last_commit": "2024-08-20T14:48:12Z",
-                "open_issues": 0,
-                "owner": "maajor",
-                "repo": "OSMTrafficSim",
-                "stars": 395,
-                "topics": [
-                  "traffic-simulation",
-                  "unity",
-                  "unity-ecs"
-                ]
-              },
-              "first_seen": "2026-08-28T16:34:34.732Z"
-            },
-            {
-              "node_type": "item",
               "title": "uSpringBone",
               "description": "High performance SpringBone using ECS and JobSystem",
               "children": [],
@@ -15346,7 +15346,7 @@
                 "open_issues": 1,
                 "owner": "EsProgram",
                 "repo": "uSpringBone",
-                "stars": 377,
+                "stars": 378,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -15770,7 +15770,7 @@
                 "open_issues": 1,
                 "owner": "elringus",
                 "repo": "sprite-dicing",
-                "stars": 1544,
+                "stars": 1547,
                 "topics": [
                   "atlas",
                   "cli",
@@ -16296,7 +16296,7 @@
                 "open_issues": 10,
                 "owner": "vad710",
                 "repo": "UnityEngineAnalyzer",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:34.732Z"
@@ -17834,7 +17834,7 @@
                 "open_issues": 14,
                 "owner": "Tayx94",
                 "repo": "graphy",
-                "stars": 2918,
+                "stars": 2917,
                 "topics": [
                   "fps-counter",
                   "stats-for-nerds",
@@ -17861,7 +17861,7 @@
                 "open_issues": 12,
                 "owner": "aschearer",
                 "repo": "unitysizeexplorer",
-                "stars": 384,
+                "stars": 385,
                 "topics": [
                   "file-size",
                   "mobile-development",
@@ -18425,7 +18425,7 @@
                 "open_issues": 181,
                 "owner": "Perfare",
                 "repo": "AssetStudio",
-                "stars": 15594,
+                "stars": 15595,
                 "topics": [
                   "unity",
                   "unity3d"
@@ -18449,7 +18449,7 @@
                 "open_issues": 158,
                 "owner": "Perfare",
                 "repo": "Il2CppDumper",
-                "stars": 9697,
+                "stars": 9701,
                 "topics": [
                   "il2cpp",
                   "reverse-engineering",
@@ -18648,7 +18648,7 @@
                 "open_issues": 289,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10233,
+                "stars": 10234,
                 "topics": [
                   "csharp",
                   "lua",
@@ -18958,7 +18958,7 @@
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 968,
+                "stars": 969,
                 "topics": [
                   "ai",
                   "crowd-simulation",
@@ -19003,7 +19003,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 20078,
+                "stars": 20115,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -19179,11 +19179,11 @@
                 "id": 99465003,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-01-29T17:09:29Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-27T13:44:58Z",
+                "open_issues": 4,
                 "owner": "BayatGames",
                 "repo": "RedRunner",
-                "stars": 931,
+                "stars": 932,
                 "topics": [
                   "fantasy",
                   "free",
@@ -19784,7 +19784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T13:48:04.587Z",
+    "last_updated": "2026-11-27T13:45:23.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
